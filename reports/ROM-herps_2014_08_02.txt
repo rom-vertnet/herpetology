@@ -1,0 +1,182 @@
+Report for Institution Code ROM, Resource herps
+Usage stats for July, 2014, generated on 2014/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 85
+Number of records retrieved in searches: 1490
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: France ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Thailand ; Times: 8
+	Country: United States ; Times: 57
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-01 ; Times: 2
+	Date: 2014-07-02 ; Times: 9
+	Date: 2014-07-06 ; Times: 2
+	Date: 2014-07-07 ; Times: 4
+	Date: 2014-07-08 ; Times: 2
+	Date: 2014-07-09 ; Times: 7
+	Date: 2014-07-11 ; Times: 18
+	Date: 2014-07-12 ; Times: 3
+	Date: 2014-07-14 ; Times: 4
+	Date: 2014-07-15 ; Times: 6
+	Date: 2014-07-18 ; Times: 2
+	Date: 2014-07-19 ; Times: 3
+	Date: 2014-07-21 ; Times: 1
+	Date: 2014-07-23 ; Times: 1
+	Date: 2014-07-24 ; Times: 1
+	Date: 2014-07-27 ; Times: 2
+	Date: 2014-07-28 ; Times: 9
+	Date: 2014-07-29 ; Times: 6
+	Date: 2014-07-30 ; Times: 1
+	Date: 2014-07-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Montivipera" ; Times: 1
+	Query: "specificepithet:nebulata genus:Sibon" ; Times: 1
+	Query: "Dendrelaphis philippines" ; Times: 1
+	Query: "Uromastyx (skeleton)" ; Times: 7
+	Query: "leiopython" ; Times: 2
+	Query: "Ophiophagus hannah tissue:1" ; Times: 1
+	Query: "Phyllodactylus tissue:1" ; Times: 3
+	Query: "nutter" ; Times: 1
+	Query: "huia" ; Times: 1
+	Query: "ara" ; Times: 1
+	Query: "type:specimen genus:Neusticurus institutioncode:ROM" ; Times: 3
+	Query: "type:specimen genus:Neusticurus" ; Times: 1
+	Query: "indiana reptiles fmnh" ; Times: 1
+	Query: "crotalus stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "ascaphus truei year >= 1800 year <= 2000" ; Times: 1
+	Query: "Lacerta bedriagae" ; Times: 1
+	Query: "Lithobates sylvaticus tissue:1" ; Times: 1
+	Query: "green frogs" ; Times: 1
+	Query: "ROM 692" ; Times: 1
+	Query: "varanus salvator philippines" ; Times: 1
+	Query: ""uta stansburiana" distance(location,geopoint(37.474858084971046,-120.4541015625))<100000" ; Times: 1
+	Query: "coluber constrictor stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "Laemanctus tissue:1" ; Times: 1
+	Query: "Basiliscus institutioncode:ROM tissue:1" ; Times: 1
+	Query: "class:Reptila" ; Times: 1
+	Query: ""uta stansburiana" mappable:1 distance(location,geopoint(37.28497995025375,-120.4925537109375))<59359" ; Times: 1
+	Query: "Rhacophorus bimaculatus year >= 1990 year <= 2014" ; Times: 1
+	Query: "stateprovince:"Zulia" country:"Venezuela" genus:Helicops" ; Times: 1
+	Query: ""uta stansburiana" mappable:1 distance(location,geopoint(37.474858084971046,-120.4541015625))<100000" ; Times: 3
+	Query: "lithobates" ; Times: 1
+	Query: "frogs" ; Times: 1
+	Query: "Amphiesma vietnam" ; Times: 2
+	Query: "specificepithet:degenhardtii genus:Stenorrhina" ; Times: 1
+	Query: "siren lacertina" ; Times: 1
+	Query: "Kaloula picta philippines" ; Times: 1
+	Query: "Laemanctus institutioncode:ROM tissue:1" ; Times: 1
+	Query: "Basiliscus tissue:1" ; Times: 1
+	Query: "Gekko monachus" ; Times: 1
+	Query: "crotalus ravus" ; Times: 1
+	Query: "Tiliqua multifasciata" ; Times: 2
+	Query: "chiromantis vittatus tissue:1" ; Times: 2
+	Query: "crotalus transversus reptiles de mexico" ; Times: 1
+	Query: "Rhacodactylus auriculatus" ; Times: 1
+	Query: "sanzinia" ; Times: 1
+	Query: "institutioncode:ROM 42421" ; Times: 1
+	Query: "country:"Venezuela" genus:Helicops" ; Times: 1
+	Query: "Vipera" ; Times: 3
+	Query: "Ophiophagus tissue:1" ; Times: 2
+	Query: ""uta stansburiana" county:"Madera" mappable:1" ; Times: 1
+	Query: "Coluber constrictor stateprovince:"New York"" ; Times: 2
+	Query: "crotaphytus vestigium" ; Times: 1
+	Query: "PreservedTissue institutioncode:ROM" ; Times: 2
+	Query: "Rhacophorus appendiculatus year >= 1990 year <= 2014" ; Times: 1
+	Query: "Gonatodes tissue:1" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 2
+	Query: ""Amphiesma sp" vietnam" ; Times: 1
+	Query: "Lithobates sylvaticus" ; Times: 1
+	Query: "vipera" ; Times: 1
+	Query: "Polypedates leucomystax tissue:1" ; Times: 3
+	Query: "amphiesma Nghe An" ; Times: 1
+	Query: "crotalus horridus stateprovince:"New York" country:"United States"" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 437 download events in this period)
+Total number of records downloaded: 12242 (out of 2823564 records downloaded for all resources in this period)
+Total number of unique records downloaded: 11836
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 11
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-01 ; Times: 1
+	Date: 2014-07-02 ; Times: 2
+	Date: 2014-07-07 ; Times: 1
+	Date: 2014-07-09 ; Times: 2
+	Date: 2014-07-11 ; Times: 2
+	Date: 2014-07-12 ; Times: 5
+	Date: 2014-07-15 ; Times: 10
+	Date: 2014-07-16 ; Times: 1
+	Date: 2014-07-26 ; Times: 2
+	Date: 2014-07-28 ; Times: 2
+	Date: 2014-07-29 ; Times: 1
+	Date: 2014-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"argentina"" ; Times: 1
+	Query: "Dendrelaphis philippines" ; Times: 1
+	Query: "varanus salvator philippines" ; Times: 1
+	Query: "country:"Bolivia"" ; Times: 1
+	Query: "Tupinambis" ; Times: 2
+	Query: "stateprovince:"Oklahoma"" ; Times: 1
+	Query: "Lamprolepis smaragdina philippines" ; Times: 1
+	Query: "Kaloula picta philippines" ; Times: 1
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "order:Squamata mappable:1" ; Times: 1
+	Query: "anaxyrus cognatus" ; Times: 2
+	Query: "siren lacertina" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: "country:"Guyana" year <= 2014" ; Times: 1
+	Query: "country:"Brazil"" ; Times: 1
+	Query: "country:"Trinidad" year <= 2014" ; Times: 1
+	Query: "crotalus ravus" ; Times: 1
+	Query: "xenopus laevis" ; Times: 1
+	Query: "hyla cinerea" ; Times: 1
+	Query: "Occidozyga laevis philippines" ; Times: 1
+	Query: "country:"Venezuela" year <= 2014" ; Times: 1
+	Query: "country:"chile"" ; Times: 1
+	Query: "Psammodynastes pulverulentus philippines" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 1
+	Query: "country:"Colombia" year <= 2014" ; Times: 1
+	Query: "country:"Ecuador" year <= 2014" ; Times: 1
+	Query: "order:Gymnophiona mappable:1" ; Times: 1
+	Query: "limnonectes leytensis philippines" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 459
+Total number of records retrieved from searches: 5804
+Number of download events that retrieved data from the resource: 138
+Total number of records downloaded: 21769
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 459
+Total number of records retrieved from searches: 5804
+Number of download events that retrieved data from the resource: 138
+Total number of records downloaded: 21769
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
