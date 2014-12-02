@@ -1,0 +1,139 @@
+Report for Institution Code ROM, Resource herps
+Usage stats for November, 2014, generated on 2014/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 102
+Number of records retrieved in searches: 756
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Germany ; Times: 30
+	Country: Jamaica ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Russia ; Times: 3
+	Country: Spain ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 53
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-06 ; Times: 4
+	Date: 2014-11-07 ; Times: 7
+	Date: 2014-11-08 ; Times: 2
+	Date: 2014-11-09 ; Times: 1
+	Date: 2014-11-11 ; Times: 7
+	Date: 2014-11-12 ; Times: 1
+	Date: 2014-11-14 ; Times: 1
+	Date: 2014-11-15 ; Times: 1
+	Date: 2014-11-17 ; Times: 1
+	Date: 2014-11-19 ; Times: 10
+	Date: 2014-11-20 ; Times: 1
+	Date: 2014-11-21 ; Times: 16
+	Date: 2014-11-24 ; Times: 28
+	Date: 2014-11-25 ; Times: 13
+	Date: 2014-11-26 ; Times: 4
+	Date: 2014-11-27 ; Times: 3
+	Date: 2014-11-29 ; Times: 1
+	Date: 2014-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vipera aspis" ; Times: 1
+	Query: ""Anaxyrus boreas" type:specimen country:"United States" (tissue) tissue:1" ; Times: 1
+	Query: "Eunectes" ; Times: 3
+	Query: "darevskia nairensis" ; Times: 1
+	Query: "specificepithet:molossus genus:Crotalus tissue:1" ; Times: 1
+	Query: "ambystoma cingulatum" ; Times: 2
+	Query: "Lacerta vivipara" ; Times: 1
+	Query: "Elaphe quatuorlineata" ; Times: 1
+	Query: "Eretmochelys" ; Times: 1
+	Query: "Aspidites" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "Nannophryne" ; Times: 2
+	Query: "specificepithet:elegans genus:Arizona tissue:1" ; Times: 1
+	Query: "genus:Lithobates institutioncode:ROM" ; Times: 1
+	Query: "Anguis fragilis" ; Times: 2
+	Query: "canadian lynx" ; Times: 1
+	Query: "Duttaphrynus melanostictus" ; Times: 1
+	Query: "Lacerta viridis" ; Times: 1
+	Query: "genus:Salvadora tissue:1" ; Times: 1
+	Query: "porosissima" ; Times: 1
+	Query: "Hypsiglena tissue:1" ; Times: 1
+	Query: "Coronella austriaca" ; Times: 1
+	Query: "Tropidophis" ; Times: 3
+	Query: "ptychadena porosissima" ; Times: 15
+	Query: "python" ; Times: 2
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Notophthalmus meridionalis" ; Times: 1
+	Query: "phyllodactylus reissii" ; Times: 2
+	Query: "specificepithet:ordinoides genus:Thamnophis tissue:1" ; Times: 1
+	Query: "candoia bibroni" ; Times: 2
+	Query: "chionactis palarostris" ; Times: 1
+	Query: "crotalus ravus" ; Times: 1
+	Query: "specificepithet:durissus genus:crotalus tissue:1" ; Times: 1
+	Query: "ROM hypsiglena tissue:1" ; Times: 1
+	Query: "leptodeira frenata" ; Times: 1
+	Query: "ptychadena porosissima type:specimen" ; Times: 1
+	Query: "ogmodon vitianus" ; Times: 1
+	Query: "Leiopython" ; Times: 1
+	Query: ""Anaxyrus boreas" type:specimen stateprovince:"California" country:"United States" (tissue) tissue:1" ; Times: 1
+	Query: "Epictia" ; Times: 1
+	Query: "genus:Hypsiglena tissue:1" ; Times: 1
+	Query: "crotalus polystictus" ; Times: 2
+	Query: "Cerrophidion" ; Times: 1
+	Query: "specificepithet:hexalepis genus:Salvadora tissue:1" ; Times: 2
+	Query: "Azemiops" ; Times: 1
+	Query: ""credit river"" ; Times: 1
+	Query: "eumeces schneideri" ; Times: 1
+	Query: "kinosternon acutum" ; Times: 9
+	Query: "genus:Trimorphodon tissue:1" ; Times: 2
+	Query: "ptychadena porosissima type:specimen mappable:1" ; Times: 1
+	Query: "Bitis parviocula" ; Times: 1
+	Query: "Epicrates" ; Times: 2
+	Query: "country:"Liberia" genus:Agama" ; Times: 1
+	Query: "Liasis" ; Times: 1
+	Query: "hyla arborea" ; Times: 1
+	Query: "class:reptilia catalognumber:11766" ; Times: 1
+	Query: "holbrookia lacerata" ; Times: 1
+	Query: ""Anaxyrus boreas" type:specimen (tissue) tissue:1" ; Times: 1
+	Query: "Ameiva dorsalis" ; Times: 2
+	Query: "genus:Rhinocheilus tissue:1" ; Times: 1
+	Query: "Diplodactylus ciliaris (tissue) tissue:1" ; Times: 1
+	Query: "Nanorana" ; Times: 3
+	Query: "specificepithet:basiliscus genus:crotalus tissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 687
+Total number of records retrieved from searches: 9456
+Number of download events that retrieved data from the resource: 191
+Total number of records downloaded: 33180
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 687
+Total number of records retrieved from searches: 9456
+Number of download events that retrieved data from the resource: 191
+Total number of records downloaded: 33180
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
