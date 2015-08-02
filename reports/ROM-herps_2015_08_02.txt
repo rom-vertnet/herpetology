@@ -1,0 +1,403 @@
+Report for Institution Code ROM, Resource herps
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 292
+Number of records retrieved in searches: 2302
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 5
+	Country: Austria ; Times: 2
+	Country: Bahamas ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 9
+	Country: Chile ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: France ; Times: 2
+	Country: Germany ; Times: 7
+	Country: Mexico ; Times: 31
+	Country: Portugal ; Times: 1
+	Country: South Africa ; Times: 4
+	Country: Thailand ; Times: 1
+	Country: United States ; Times: 222
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 4
+	Date: 2015-07-02 ; Times: 13
+	Date: 2015-07-03 ; Times: 9
+	Date: 2015-07-04 ; Times: 4
+	Date: 2015-07-05 ; Times: 2
+	Date: 2015-07-06 ; Times: 6
+	Date: 2015-07-07 ; Times: 6
+	Date: 2015-07-08 ; Times: 30
+	Date: 2015-07-09 ; Times: 5
+	Date: 2015-07-10 ; Times: 6
+	Date: 2015-07-11 ; Times: 7
+	Date: 2015-07-12 ; Times: 5
+	Date: 2015-07-13 ; Times: 9
+	Date: 2015-07-14 ; Times: 7
+	Date: 2015-07-15 ; Times: 14
+	Date: 2015-07-16 ; Times: 16
+	Date: 2015-07-17 ; Times: 13
+	Date: 2015-07-18 ; Times: 11
+	Date: 2015-07-19 ; Times: 5
+	Date: 2015-07-20 ; Times: 3
+	Date: 2015-07-21 ; Times: 9
+	Date: 2015-07-22 ; Times: 13
+	Date: 2015-07-23 ; Times: 14
+	Date: 2015-07-24 ; Times: 4
+	Date: 2015-07-25 ; Times: 3
+	Date: 2015-07-26 ; Times: 1
+	Date: 2015-07-27 ; Times: 12
+	Date: 2015-07-28 ; Times: 11
+	Date: 2015-07-29 ; Times: 20
+	Date: 2015-07-30 ; Times: 20
+	Date: 2015-07-31 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Phyllodactylus muralis" ; Times: 1
+	Query: "22774" ; Times: 2
+	Query: "catalognumber:21655" ; Times: 1
+	Query: "Crotalus ravus stateprovince:"Oaxaca" country:"Mexico"" ; Times: 1
+	Query: "Eleutherodactylus auriculatus year >= 1976 year <= 2013" ; Times: 1
+	Query: "lithobates septentrionalis" ; Times: 1
+	Query: "Eleutherodactylus cuneatus year >= 1950 year <= 2013" ; Times: 1
+	Query: "27802" ; Times: 1
+	Query: "reptiles fmnh trinidad" ; Times: 1
+	Query: "UTEP" ; Times: 1
+	Query: "crotalus lepidus stateprovince:"new mexico"" ; Times: 2
+	Query: "lepidus (hatchet)" ; Times: 4
+	Query: "14470" ; Times: 1
+	Query: "Cyclemys" ; Times: 1
+	Query: "eublepharis macularius" ; Times: 9
+	Query: "Sphenodon" ; Times: 1
+	Query: "crotalus utah" ; Times: 1
+	Query: "Phyllodactylus xanti nocticolus" ; Times: 3
+	Query: "Crotalus pricei" ; Times: 3
+	Query: "42291" ; Times: 1
+	Query: "Phyllodactylus lanei" ; Times: 2
+	Query: "Sistrurus catenatus stateprovince:"Kansas" country:"United States"" ; Times: 1
+	Query: "ogmodon vitianus" ; Times: 6
+	Query: "durissus mexico" ; Times: 1
+	Query: "rhinocheilus lecontei (CA)" ; Times: 1
+	Query: "catalognumber:38002" ; Times: 1
+	Query: "stateprovince:"utah" genus:crotalus" ; Times: 3
+	Query: "Necturus maculosus type:specimen year >= 1900 year <= 2015" ; Times: 3
+	Query: "dasypeltis" ; Times: 4
+	Query: "specificepithet:reticulatus genus:Coleonyx" ; Times: 1
+	Query: "storeria manitoba" ; Times: 2
+	Query: "Trachemys ornata year >= 1900 year <= 2013" ; Times: 1
+	Query: "storeria quebec" ; Times: 1
+	Query: "33125" ; Times: 1
+	Query: "Phyllodactylus bordai" ; Times: 1
+	Query: "crotalus tigris" ; Times: 1
+	Query: "rom 30882" ; Times: 1
+	Query: "vipera" ; Times: 2
+	Query: "county:"alachua" stateprovince:"florida" class:amphibia year >= 1990 year <= 2015 mappable:1" ; Times: 1
+	Query: "Crotalus willardi willardi" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 2
+	Query: "Gonionotophis type:specimen" ; Times: 4
+	Query: "(Pareas)" ; Times: 3
+	Query: "Trachemys terrapen year >= 1900 year <= 2013" ; Times: 1
+	Query: "Proctoporus" ; Times: 3
+	Query: "Theloderma corticale" ; Times: 1
+	Query: "ROM 47028" ; Times: 1
+	Query: "Mabuya macularia tissue:1" ; Times: 1
+	Query: "reptiles field museum trinidad" ; Times: 1
+	Query: "crotalus santa catalina" ; Times: 1
+	Query: "Abditus" ; Times: 1
+	Query: "Crotalus tigris stateprovince:"Arizona" country:"United States"" ; Times: 1
+	Query: "Crotalus Willardi" ; Times: 1
+	Query: "Hypsiglena chlorophaea" ; Times: 1
+	Query: "country:"Bolivia" class:reptilia mappable:1" ; Times: 2
+	Query: "14299" ; Times: 4
+	Query: "Mabuya longicaudata tissue:1" ; Times: 1
+	Query: "Coluber constrictor stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "Crocodilurus" ; Times: 1
+	Query: "eleutherodactylus distance(location,geopoint(22.601028642974075,-75.849609375))<623716" ; Times: 3
+	Query: "coronella austriaca" ; Times: 1
+	Query: "eleutherodactylus distance(location,geopoint(29.0019908538221,-87.7587890625))<845878" ; Times: 1
+	Query: "Cincinnati Museum Center" ; Times: 1
+	Query: "Phyllodactylus paucituberculatus" ; Times: 1
+	Query: "phyllorhynchus stateprovince:"Baja"" ; Times: 3
+	Query: "Necturus maculosus year >= 1900 year <= 2015" ; Times: 5
+	Query: "specificepithet:femoralis genus:Allobates" ; Times: 1
+	Query: "Pseudogonatodes" ; Times: 1
+	Query: "Sphenodon punctatus" ; Times: 2
+	Query: "komodoensis" ; Times: 1
+	Query: "TNHC Herpetology" ; Times: 1
+	Query: "country:"Bolivia" class:Amphibia year >= 0 year <= 1999 mappable:1" ; Times: 1
+	Query: "country:"Egypt" AND (NOT UMMZ) year >= 1984 year <= 1984" ; Times: 1
+	Query: "country:"Bolivia" class:Amphibia year <= 1999 mappable:1" ; Times: 1
+	Query: "genus:Bachia" ; Times: 2
+	Query: "26305" ; Times: 1
+	Query: "varanus komodoensis" ; Times: 21
+	Query: "eleutherodactylus distance(location,geopoint(29.0019908538221,-87.7587890625))<660057" ; Times: 1
+	Query: "Phyllodactylus delcampi" ; Times: 1
+	Query: "specificepithet:cingulatum genus:ambystoma class:amphibia year >= 1990 year <= 2015" ; Times: 1
+	Query: "anaxyrus" ; Times: 2
+	Query: "laevissimus" ; Times: 1
+	Query: "necturus maculosus" ; Times: 3
+	Query: "eleutherodactylus distance(location,geopoint(25.601902261115725,-76.9921875))<864811" ; Times: 2
+	Query: "eleutherodactylus distance(location,geopoint(29.0019908538221,-87.7587890625))<628129" ; Times: 1
+	Query: "Craugastor" ; Times: 1
+	Query: "Japalura tissue:1" ; Times: 6
+	Query: "lepidus (Dona Ana)" ; Times: 1
+	Query: "gonyosoma oxycephalum" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:mabeei genus:ambystoma" ; Times: 1
+	Query: "Ambystoma cingulatum country:"United States"" ; Times: 1
+	Query: "eleutherodactylus planirostris" ; Times: 1
+	Query: "specificepithet:mitchellii genus:Crotalus" ; Times: 1
+	Query: "lepidus (burro)" ; Times: 2
+	Query: "36223" ; Times: 1
+	Query: "cingulatum" ; Times: 1
+	Query: "Duttaphrynus melanostictus" ; Times: 1
+	Query: "Malayemys subtrijuga" ; Times: 2
+	Query: "lithobates catesbeianus" ; Times: 2
+	Query: "16002" ; Times: 1
+	Query: "catalognumber:28045" ; Times: 1
+	Query: "ROM 25578" ; Times: 2
+	Query: "varanus komodoensis (skeleton)" ; Times: 2
+	Query: "anaxyrus type:specimen mappable:1" ; Times: 1
+	Query: "Phyllodactylus angelensis" ; Times: 1
+	Query: "crotalus triseriatus" ; Times: 1
+	Query: "sistrurus miliarius tissue:1" ; Times: 1
+	Query: "anaxyrus type:specimen" ; Times: 1
+	Query: "14280 type:specimen" ; Times: 2
+	Query: "Phyllodactylus davisi" ; Times: 1
+	Query: "xantusia vigilis tissue:1" ; Times: 2
+	Query: "5851" ; Times: 1
+	Query: "basiliscus" ; Times: 1
+	Query: "45870" ; Times: 1
+	Query: "lake superior herps" ; Times: 1
+	Query: "rom 30259" ; Times: 4
+	Query: "rom 30426" ; Times: 1
+	Query: "genus:Allobates" ; Times: 1
+	Query: "hypsiboas sibleszi" ; Times: 1
+	Query: "triturus tissue:1" ; Times: 2
+	Query: "Mabuya Sri Lanka" ; Times: 1
+	Query: "purpureomaculatus" ; Times: 1
+	Query: "Sistrurus miliarius georgia" ; Times: 1
+	Query: "rom 30246" ; Times: 4
+	Query: "catalognumber:500" ; Times: 1
+	Query: "coleonyx switaki" ; Times: 2
+	Query: "Lithobates septentrionalis" ; Times: 1
+	Query: "catalognumber:2512" ; Times: 1
+	Query: "stateprovince:"florida" genus:ambystoma class:amphibia year >= 1990 year <= 2015 mappable:1" ; Times: 1
+	Query: "Eleutherodactylus auriculatus year >= 1950 year <= 2013" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: ""Microhyla pulchra"" ; Times: 2
+	Query: "scutiger" ; Times: 1
+	Query: "reptiles and amphibians balleza chihuahua" ; Times: 1
+	Query: "Phyllodactylus partidus" ; Times: 1
+	Query: "36084" ; Times: 1
+	Query: "malayemys" ; Times: 1
+	Query: "epicrates chrysogaster" ; Times: 2
+	Query: "sistrurus catenatus" ; Times: 2
+	Query: "crotalus molossus stateprovince:"new mexico"" ; Times: 1
+	Query: "specificepithet:catenatus genus:sistrurus" ; Times: 1
+	Query: "Gonionotophis" ; Times: 1
+	Query: "margaritifera" ; Times: 2
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "Necturus maculosus" ; Times: 1
+	Query: "rom 38002" ; Times: 3
+	Query: "rom 36823" ; Times: 2
+	Query: "24633" ; Times: 1
+	Query: "Phyllodactylus nocticolus" ; Times: 4
+	Query: "county:"Los Angeles" genus:Xenopus" ; Times: 1
+	Query: "5280" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:mitchellii genus:Crotalus" ; Times: 2
+	Query: "Eridiphas stateprovince:"Sur"" ; Times: 2
+	Query: "33625" ; Times: 1
+	Query: "lepidus (Organ)" ; Times: 5
+	Query: "Eleutherodactylus auriculatus year >= 1900 year <= 2013" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 6
+	Query: "25578" ; Times: 1
+	Query: "Phyllodactylus partidus*" ; Times: 1
+	Query: "Sphaerodactylidae" ; Times: 1
+	Query: ""Pygopus lepidopodus"" ; Times: 1
+	Query: "Crotaphytus vestigium" ; Times: 3
+	Query: "Elapidae (Asia) tissue:1" ; Times: 1
+	Query: "Theloderma corticale tissue:1" ; Times: 1
+	Query: "Phyllodactylus duellmani" ; Times: 2
+	Query: "specificepithet:catenatus genus:sistrurus tissue:1" ; Times: 1
+	Query: "cuora tissue:1" ; Times: 1
+	Query: "reptiles and amphibians chihuahua" ; Times: 1
+	Query: "drymarchon couperi" ; Times: 1
+	Query: "bufonidae type:specimen genus:Rhinella OR Atelopus tissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 109 (out of 1084 download events in this period)
+Total number of records downloaded: 13363 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 8503
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: France ; Times: 1
+	Country: India ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 23
+	Country: Panama ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United Arab Emirates ; Times: 2
+	Country: United States ; Times: 73
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 2
+	Date: 2015-07-02 ; Times: 4
+	Date: 2015-07-03 ; Times: 5
+	Date: 2015-07-06 ; Times: 3
+	Date: 2015-07-07 ; Times: 1
+	Date: 2015-07-08 ; Times: 5
+	Date: 2015-07-09 ; Times: 7
+	Date: 2015-07-10 ; Times: 2
+	Date: 2015-07-13 ; Times: 2
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 1
+	Date: 2015-07-16 ; Times: 2
+	Date: 2015-07-17 ; Times: 2
+	Date: 2015-07-18 ; Times: 4
+	Date: 2015-07-19 ; Times: 1
+	Date: 2015-07-20 ; Times: 3
+	Date: 2015-07-21 ; Times: 6
+	Date: 2015-07-22 ; Times: 23
+	Date: 2015-07-23 ; Times: 3
+	Date: 2015-07-24 ; Times: 3
+	Date: 2015-07-25 ; Times: 1
+	Date: 2015-07-27 ; Times: 1
+	Date: 2015-07-28 ; Times: 7
+	Date: 2015-07-29 ; Times: 5
+	Date: 2015-07-30 ; Times: 10
+	Date: 2015-07-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Phyllodactylus muralis" ; Times: 1
+	Query: "arizona elegans type:specimen" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "bufonidae" ; Times: 1
+	Query: "Eleutherodactylus cuneatus year >= 1950 year <= 2013" ; Times: 1
+	Query: "Liolaemus" ; Times: 1
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "blandingii (Emydoidea OR Emys)" ; Times: 1
+	Query: "Xantusiidae" ; Times: 2
+	Query: "crotalus viridis viridis" ; Times: 1
+	Query: "sternotherus odoratus" ; Times: 1
+	Query: "anaxyrus type:specimen mappable:1" ; Times: 1
+	Query: "Cordylidae" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "VIPERA BERUS" ; Times: 1
+	Query: "adamanteus" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "USNM salamandridae" ; Times: 1
+	Query: "Sternotherus odoratus mappable:1" ; Times: 1
+	Query: "Necturus maculosus type:specimen year >= 1900 year <= 2015" ; Times: 1
+	Query: "dasypeltis" ; Times: 1
+	Query: "Phyllodactylus unctus" ; Times: 1
+	Query: "Ptychadena tissue:1" ; Times: 2
+	Query: "Porthidium" ; Times: 1
+	Query: "Clemmys guttata" ; Times: 1
+	Query: "Phyllodactylus bordai" ; Times: 1
+	Query: "eublepharis macularius" ; Times: 1
+	Query: "jalisco" ; Times: 1
+	Query: "AGUASCALIENTES" ; Times: 1
+	Query: "Eublepharidae" ; Times: 1
+	Query: "Kinosternon subrubrum" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "Trachemys terrapen year >= 1900 year <= 2013" ; Times: 1
+	Query: "Bipes stateprovince:"Baja"" ; Times: 1
+	Query: "rhinocheilus lecontei" ; Times: 1
+	Query: "country:"Bolivia" class:reptilia mappable:1" ; Times: 2
+	Query: "Phyllodactylus homolepidurus" ; Times: 1
+	Query: "zacatecas" ; Times: 1
+	Query: "Necturus maculosus year >= 1900 year <= 2015" ; Times: 1
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+	Query: "country:"Bolivia" class:Amphibia mappable:1" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "anaxyrus type:specimen" ; Times: 1
+	Query: "Apalone spinifera" ; Times: 1
+	Query: "Eleutherodactylus auriculatus year >= 1900 year <= 2013" ; Times: 1
+	Query: "Graptemys geographica" ; Times: 1
+	Query: "Thecadactylus rapicauda" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 2
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "genus:Kinosternon subrubrum mappable:1" ; Times: 1
+	Query: "country:"Puerto Rico"" ; Times: 1
+	Query: "Xantusia vigilis" ; Times: 1
+	Query: "anaxyrus type:specimen mappable:1 tissue:1" ; Times: 1
+	Query: "Terrapene (carolina OR bauri OR major OR triunguis)" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "Hyla euphorbiacea" ; Times: 1
+	Query: "country:"Mexico" class:Amphibia" ; Times: 1
+	Query: "cingulatum" ; Times: 1
+	Query: "chrysemys (belli OR picta OR marginata)" ; Times: 1
+	Query: "guanajuato" ; Times: 1
+	Query: "Terrapene carolina" ; Times: 1
+	Query: "chordata country:"dominican Republic"" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "thecadactylus rapicauda" ; Times: 1
+	Query: "san luis potosi" ; Times: 1
+	Query: "callisaurus" ; Times: 1
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "hypsiboas sibleszi" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 1
+	Query: "hemidactylium" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "stateprovince:"Pennsylvania" country:"United States" genus:Crotalus class:Reptilia" ; Times: 1
+	Query: "type:specimen (bufonidae OR Rhinella OR Atelopus) tissue:1" ; Times: 1
+	Query: "Apalone ferox" ; Times: 1
+	Query: "Hyla eximia" ; Times: 1
+	Query: "Rhinella schneideri" ; Times: 1
+	Query: "Trachemys (scripta OR elegans OR troosti)" ; Times: 1
+	Query: "Guanajuato" ; Times: 1
+	Query: "reptiles and amphibians balleza chihuahua" ; Times: 2
+	Query: "Graptemys" ; Times: 1
+	Query: "Phyllodactylus tuberculosus" ; Times: 1
+	Query: "Xenosauridae" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "genus:Kinosternon mappable:1" ; Times: 1
+	Query: "aneides aeneus" ; Times: 2
+	Query: "Phyllodactylus davisi" ; Times: 1
+	Query: "country:"Mexico" class:Reptilia" ; Times: 1
+	Query: "Phyllodactylus nocticolus" ; Times: 1
+	Query: "thamnophis couchii" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "genus:Trimorphodon" ; Times: 1
+	Query: "Gekkonidae" ; Times: 1
+	Query: "Sternotherus minor" ; Times: 1
+	Query: "Sphaerodactylidae" ; Times: 1
+	Query: "country:"Bolivia" class:reptilia" ; Times: 1
+	Query: "Terrapene (ornata OR luteola)" ; Times: 1
+	Query: "Sternotherus odoratus" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "Elapidae (Asia) tissue:1" ; Times: 1
+	Query: "Phyllodactylus duellmani" ; Times: 1
+	Query: "Leptopelis tissue:1" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2287
+Total number of records retrieved from searches: 27902
+Number of download events that retrieved data from the resource: 455
+Total number of records downloaded: 116577
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2504
+Total number of records retrieved from searches: 29473
+Number of download events that retrieved data from the resource: 720
+Total number of records downloaded: 154988
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
