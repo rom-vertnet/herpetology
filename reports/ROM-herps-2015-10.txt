@@ -1,0 +1,398 @@
+Report for Institution Code ROM, Resource herps
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 294
+Number of records retrieved in searches: 2678
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Brazil ; Times: 13
+	Country: Argentina ; Times: 3
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Mexico ; Times: 48
+	Country: South Africa ; Times: 2
+	Country: United States ; Times: 199
+	Country: Germany ; Times: 4
+	Country: United Kingdom ; Times: 3
+	Country: Sri Lanka ; Times: 1
+	Country: Thailand ; Times: 2
+	Country: Dominican Republic ; Times: 8
+	Country: France ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 7
+	Date: 2015-10-17 ; Times: 2
+	Date: 2015-10-14 ; Times: 2
+	Date: 2015-10-15 ; Times: 8
+	Date: 2015-10-12 ; Times: 23
+	Date: 2015-10-13 ; Times: 20
+	Date: 2015-10-10 ; Times: 9
+	Date: 2015-10-11 ; Times: 8
+	Date: 2015-10-18 ; Times: 1
+	Date: 2015-10-19 ; Times: 5
+	Date: 2015-10-29 ; Times: 19
+	Date: 2015-10-28 ; Times: 5
+	Date: 2015-10-27 ; Times: 9
+	Date: 2015-10-26 ; Times: 10
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-24 ; Times: 5
+	Date: 2015-10-23 ; Times: 10
+	Date: 2015-10-22 ; Times: 25
+	Date: 2015-10-21 ; Times: 16
+	Date: 2015-10-20 ; Times: 11
+	Date: 2015-10-05 ; Times: 4
+	Date: 2015-10-04 ; Times: 6
+	Date: 2015-10-07 ; Times: 12
+	Date: 2015-10-06 ; Times: 5
+	Date: 2015-10-01 ; Times: 10
+	Date: 2015-10-03 ; Times: 7
+	Date: 2015-10-02 ; Times: 9
+	Date: 2015-10-09 ; Times: 11
+	Date: 2015-10-08 ; Times: 18
+	Date: 2015-10-30 ; Times: 14
+	Date: 2015-10-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "32700" ; Times: 1
+	Query: "Hypsiboas sibleszi" ; Times: 1
+	Query: "Dryocalamus" ; Times: 4
+	Query: "hypsiboas cinerascens" ; Times: 2
+	Query: "genus:Oxyrhopus country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 6
+	Query: "Platysternon tissue:1" ; Times: 1
+	Query: "Ambystoma annulatum" ; Times: 1
+	Query: "ophisaurus gracilis" ; Times: 1
+	Query: "Chrysemys tissue:1" ; Times: 3
+	Query: "15205" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "Ophisaurus gracilis" ; Times: 1
+	Query: "emys OR clemmys tissue:1" ; Times: 1
+	Query: "tiliqua institutioncode:ROM" ; Times: 1
+	Query: "Ophisaurus tissue:1" ; Times: 1
+	Query: "type:specimen catalognumber:41463 institutioncode:ROM" ; Times: 1
+	Query: "Crotalus lepidus aguascalientes" ; Times: 1
+	Query: "sceloporus utiformis" ; Times: 3
+	Query: "Agalychnis callidryas" ; Times: 5
+	Query: "anguis fragilis" ; Times: 1
+	Query: "pseudacris maculata" ; Times: 1
+	Query: "specificepithet:hemilopha genus:Ctenosaura stateprovince:&#34;Baja&#34;" ; Times: 2
+	Query: "Coleonyx switaki" ; Times: 16
+	Query: "genus:Necturus tissue:1" ; Times: 5
+	Query: "chelydra tissue:1" ; Times: 1
+	Query: "Pelodiscus sinensis" ; Times: 1
+	Query: "genus:Plethodon stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "barbouri" ; Times: 2
+	Query: "Epicrates subflavus" ; Times: 1
+	Query: "Malayemys" ; Times: 2
+	Query: "bogertophis rosaliae" ; Times: 3
+	Query: "order:caudata county:&#34;Liberty&#34; stateprovince:&#34;Florida&#34; AND (NOT &#34;guttolineata&#34; NOT &#34;means&#34; NOT &#34;quadradigitata&#34; NOT &#34;cirrigera&#34;) year &gt;= 1990 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "specificepithet:bauri genus:Kinosternon" ; Times: 2
+	Query: "gopherus morafkai rom" ; Times: 1
+	Query: "Cuora galbinifrons tissue:1" ; Times: 1
+	Query: "(lithobates pipiens) canada mappable:1" ; Times: 1
+	Query: "platysternon" ; Times: 1
+	Query: "ROM 23325" ; Times: 1
+	Query: "Norops nebulosus" ; Times: 1
+	Query: "ROM 23326" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "specificepithet:ameiva type:specimen" ; Times: 1
+	Query: "order:caudata county:&#34;Liberty&#34; stateprovince:&#34;Florida&#34; AND (NOT &#34;guttolineata&#34; NOT &#34;means&#34; NOT &#34;quadridigitata&#34; NOT &#34;cirrigera&#34;) year &gt;= 1990 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:vipera genus:cerastes preparations:skeleton" ; Times: 1
+	Query: "Epicrates chrysogaster" ; Times: 1
+	Query: "clemmys tissue:1" ; Times: 3
+	Query: "specificepithet:dissoleucus genus:Micrurus" ; Times: 4
+	Query: "specificepithet:neuwiedii genus:Pseudoboa" ; Times: 1
+	Query: "notophthalmus meridionalis" ; Times: 2
+	Query: "crotalus durissus" ; Times: 1
+	Query: "lithobates catesbeianus tissue:1" ; Times: 1
+	Query: "Lithobates berlandieri" ; Times: 2
+	Query: "(Lithobates pipiens) Canada mappable:1" ; Times: 1
+	Query: "specificepithet:gigas genus:Hydrodynastes country:&#34;Bolivia&#34;" ; Times: 2
+	Query: "hypsiboas punctatus" ; Times: 3
+	Query: "class:Reptilia stateprovince:&#34;Chiriqui&#34; country:&#34;Panama&#34; AND (NOT CAS NOT KU NOT UMMZ)" ; Times: 1
+	Query: "genus:lampropeltis stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "cuora galbinifrons" ; Times: 1
+	Query: "Crotalus basiliscus" ; Times: 2
+	Query: "rom 15529" ; Times: 2
+	Query: "bothriechis lateralis" ; Times: 1
+	Query: "emydura tissue:1" ; Times: 1
+	Query: "crotalus transversus" ; Times: 1
+	Query: "order:caudata county:&#34;liberty&#34; stateprovince:&#34;Florida&#34; year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "catalognumber:30246" ; Times: 1
+	Query: "catalognumber:29329" ; Times: 1
+	Query: "terrapene tissue:1" ; Times: 1
+	Query: "Pseudacris maculata" ; Times: 1
+	Query: "bothriechis bilineata" ; Times: 1
+	Query: "apalone tissue:1" ; Times: 3
+	Query: "bothriechis aurifer" ; Times: 1
+	Query: "26998" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 2
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Venezuela&#34; institutioncode:ROM" ; Times: 1
+	Query: "eretmochelys imbricata imbricata" ; Times: 1
+	Query: "43288" ; Times: 1
+	Query: "sarawak Megophryidae" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "22250" ; Times: 1
+	Query: "Dermochelys coriacea" ; Times: 3
+	Query: "genus:Cryptobranchus stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "27542" ; Times: 1
+	Query: "heosemys tissue:1" ; Times: 1
+	Query: "specificepithet:Willardi genus:Crotalus" ; Times: 1
+	Query: "Crotalus intermedius" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Apure&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Hypsiboas punctatus" ; Times: 3
+	Query: "specificepithet:dissoleucus genus:Micrurus country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "catalognumber:30039" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;Michigan&#34; month &gt;= 3 month &lt;= 9 mappable:1" ; Times: 1
+	Query: "pseudacris brimleyi" ; Times: 1
+	Query: "rom 19142" ; Times: 2
+	Query: "ambystoma maculatum wisconsin" ; Times: 1
+	Query: "chelodina tissue:1" ; Times: 1
+	Query: "gloydius saxatilis" ; Times: 1
+	Query: "Varanus albigularis" ; Times: 1
+	Query: "mabuya macularia type:specimen" ; Times: 1
+	Query: "specificepithet:ameiva type:specimen tissue:1" ; Times: 1
+	Query: "specificepithet:sericeus genus:Anolis country:&#34;Belize&#34;" ; Times: 2
+	Query: "graptemys tissue:1" ; Times: 3
+	Query: "(Lithobates pipiens) Canada" ; Times: 1
+	Query: "aromobatidae" ; Times: 1
+	Query: "azemiops feae" ; Times: 1
+	Query: "pachytriton brevipes" ; Times: 2
+	Query: "Lithobates sphenocephalus" ; Times: 1
+	Query: "Ludlow California" ; Times: 1
+	Query: "12739" ; Times: 1
+	Query: "chrysemys tissue:1" ; Times: 1
+	Query: "Amphisbaena manni" ; Times: 2
+	Query: "Crotalus aguascalientes" ; Times: 3
+	Query: "laemanctus tissue:1" ; Times: 1
+	Query: "Brazil Reptilia" ; Times: 1
+	Query: "crotalus aquilus" ; Times: 2
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "order:caudata county:&#34;Liberty&#34; stateprovince:&#34;Florida&#34; year &gt;= 1990 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "sympholis lippiens" ; Times: 1
+	Query: "genus:Eumeces stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 3
+	Query: "Sceloporus torquatus" ; Times: 2
+	Query: "clemmys muhlenbergii tissue:1" ; Times: 1
+	Query: "institutioncode:rom alligator" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Venezuela&#34;" ; Times: 2
+	Query: "type:specimen catalognumber:27993 institutioncode:ROM" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Chiriqui&#34; country:&#34;Panama&#34; AND (NOT CAS NOT KU)" ; Times: 1
+	Query: "crotalus aguascalientes" ; Times: 2
+	Query: "specificepithet:zonata genus:Lampropeltis tissue:1" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Chiriqui&#34; country:&#34;Panama&#34; AND (NOT CAS NOT KU NOT UMMZ NOT MVZ)" ; Times: 1
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "specificepithet:reticulatus genus:Crotaphytus" ; Times: 1
+	Query: "Corallus hortulanus" ; Times: 1
+	Query: "Pipa arrabali" ; Times: 3
+	Query: "class:reptilia stateprovince:&#34;Michigan&#34; mappable:1" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Chiriqui&#34; country:&#34;Panama&#34; AND (NOT CAS NOT KU NOT UMMZ NOT MVZ NOT USNM)" ; Times: 1
+	Query: "FMNH reptiles" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "genus:Amphisbaena country:&#34;Colombia&#34;" ; Times: 1
+	Query: "type:specimen catalognumber:43645 institutioncode:ROM" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Chiriqui&#34; country:&#34;Panama&#34; AND (NOT CAS NOT KU NOT UMMZ NOT MVZ NOT USNM NOT ANSP)" ; Times: 1
+	Query: "Hypsiboas liliae" ; Times: 1
+	Query: "indian point class:Amphibia country:&#34;Canada&#34; mappable:1" ; Times: 2
+	Query: "Philautus continent:Asia tissue:1" ; Times: 1
+	Query: "ambystoma californiense mappable:1" ; Times: 2
+	Query: "catalognumber:33095" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "Ludlow stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "coleonyx reticulatus" ; Times: 3
+	Query: "21258" ; Times: 1
+	Query: "Corallus caninus" ; Times: 3
+	Query: "SDNHM" ; Times: 1
+	Query: "Crotalus triseriatus" ; Times: 1
+	Query: "ophisaurus harti" ; Times: 2
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "Micrurus tissue:1" ; Times: 1
+	Query: "eumeces egregius" ; Times: 1
+	Query: "hypsiboas liliae" ; Times: 1
+	Query: "craugastor" ; Times: 1
+	Query: "beaver class:amphibia country:&#34;canada&#34;" ; Times: 1
+	Query: "testudines institutioncode:ROM tissue:1" ; Times: 2
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "Anomaloglossus" ; Times: 1
+	Query: "platysternon tissue:1" ; Times: 1
+	Query: "catalognumber:27542" ; Times: 1
+	Query: "pah" ; Times: 2
+	Query: "sphaerodactylus" ; Times: 1
+	Query: "Bombina microdeladigitora" ; Times: 5
+	Query: "specificepithet:platurus genus:Pelamis mappable:1" ; Times: 1
+	Query: "Anotheca" ; Times: 1
+	Query: "genus:heterodon stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Ludlow" ; Times: 2
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "23218" ; Times: 1
+	Query: "varanus komodoensis" ; Times: 1
+	Query: "coleonyx mexico" ; Times: 1
+	Query: "Ctenosaura tissue:1" ; Times: 1
+	Query: "necturus maculosus" ; Times: 1
+	Query: "Verendrye class:Amphibia country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "agalychnis callidryas" ; Times: 2
+	Query: "crotalus ruber" ; Times: 1
+	Query: "graptemys institutioncode:ROM tissue:1" ; Times: 1
+	Query: "Crotaphytus vestigium" ; Times: 1
+	Query: "cryptobranchus" ; Times: 2
+	Query: "genus:Ctenosaura stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "cultus class:Amphibia country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 4
+	Query: "specificepithet:nebulata genus:Sibon country:&#34;Belize&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;Zacatecas&#34;" ; Times: 2
+	Query: "lithobates palustris" ; Times: 1
+	Query: "specificepithet:catenatus genus:sistrurus tissue:1" ; Times: 1
+	Query: "Eretmochelys imbricata imbricata" ; Times: 1
+	Query: "type:specimen genus:cerastes preparations:skeleton" ; Times: 1
+	Query: "type:specimen catalognumber:29329" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 101 (out of 823 download events in this period)
+Total number of records downloaded: 8102
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: Panama ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: United States ; Times: 83
+	Country: Germany ; Times: 2
+	Country: Uganda ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 13
+	Date: 2015-10-14 ; Times: 3
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-12 ; Times: 2
+	Date: 2015-10-13 ; Times: 3
+	Date: 2015-10-10 ; Times: 2
+	Date: 2015-10-11 ; Times: 1
+	Date: 2015-10-19 ; Times: 7
+	Date: 2015-10-29 ; Times: 5
+	Date: 2015-10-28 ; Times: 2
+	Date: 2015-10-27 ; Times: 7
+	Date: 2015-10-26 ; Times: 2
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-24 ; Times: 2
+	Date: 2015-10-23 ; Times: 7
+	Date: 2015-10-22 ; Times: 3
+	Date: 2015-10-21 ; Times: 7
+	Date: 2015-10-20 ; Times: 1
+	Date: 2015-10-05 ; Times: 4
+	Date: 2015-10-04 ; Times: 1
+	Date: 2015-10-07 ; Times: 4
+	Date: 2015-10-06 ; Times: 2
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 6
+	Date: 2015-10-09 ; Times: 2
+	Date: 2015-10-08 ; Times: 3
+	Date: 2015-10-30 ; Times: 5
+	Date: 2015-10-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "Cophosaurus texanus" ; Times: 1
+	Query: "family:GYMNOPHTHALMIDAE" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "emys OR clemmys tissue:1" ; Times: 1
+	Query: "type:specimen catalognumber:41463 institutioncode:ROM" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Dipsosaurus dorsalis" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "Pelodiscus sinensis" ; Times: 1
+	Query: "eleutherodactylus coqui" ; Times: 1
+	Query: "Cnemidophorus" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 3
+	Query: "bogertophis rosaliae" ; Times: 1
+	Query: "ecpleopus" ; Times: 1
+	Query: "platysternon" ; Times: 1
+	Query: "specificepithet:ameiva type:specimen mappable:1" ; Times: 1
+	Query: "type:specimen class:Reptilia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "specificepithet:ameiva type:specimen" ; Times: 1
+	Query: "thamnophis sirtalis tissue:1" ; Times: 1
+	Query: "Sceloporus stateprovince:&#34;Nevada&#34; year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "Holbrookia maculata" ; Times: 1
+	Query: "trachemys tissue:1" ; Times: 1
+	Query: "Xenopus laevis country:&#34;United States&#34;" ; Times: 1
+	Query: "crotalus transversus" ; Times: 1
+	Query: "amphiuma means" ; Times: 1
+	Query: "Lipinia noctua noctua" ; Times: 1
+	Query: "anolis cristatellus" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "apalone tissue:1" ; Times: 2
+	Query: "anotheca spinosa" ; Times: 1
+	Query: "Terrapene" ; Times: 1
+	Query: "Sceloporus orcutti" ; Times: 1
+	Query: "sphaerodactylus" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "Cyclorana platycephala" ; Times: 1
+	Query: "pseudoboa neuwiedii" ; Times: 1
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "apalone ferox" ; Times: 2
+	Query: "tantilla coronata" ; Times: 1
+	Query: "genus:Rhineura" ; Times: 1
+	Query: "specificepithet:ameiva type:specimen tissue:1" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "graptemys tissue:1" ; Times: 1
+	Query: "azemiops feae" ; Times: 1
+	Query: "Phyllorhynchus decurtatus" ; Times: 1
+	Query: "phyllodactylus reissii" ; Times: 1
+	Query: "Ludlow California" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "boiga irregularis" ; Times: 1
+	Query: "Uma scoparia" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;arkansas&#34; month &gt;= 9 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "specificepithet:calligaster genus:Lampropeltis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "sarawak Microhylidae" ; Times: 1
+	Query: "type:specimen catalognumber:27993 institutioncode:ROM" ; Times: 1
+	Query: "bitis gabonica" ; Times: 3
+	Query: "Coleonyx switaki" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "marmorata" ; Times: 1
+	Query: "Amboy" ; Times: 1
+	Query: "Malayemys" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 1
+	Query: "Ramphotyphlops braminus" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;California&#34; mappable:1 tissue:1" ; Times: 1
+	Query: "Ludlow stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "coleonyx reticulatus" ; Times: 3
+	Query: "type:specimen class:Amphibia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "specificepithet:alterna genus:Lampropeltis" ; Times: 1
+	Query: "Chlamydosaurus kingii" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Bombina microdeladigitora" ; Times: 2
+	Query: "phrynosoma tissue:1" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "Salvadora hexalepis" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "xenopus laevis" ; Times: 1
+	Query: "thamnophis radix" ; Times: 1
+	Query: "Sceloporus clarkii" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "bipes biporus" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+
+
+End of report.
