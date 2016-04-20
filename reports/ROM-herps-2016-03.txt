@@ -1,0 +1,156 @@
+Report for Institution Code ROM, Resource herps
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 89
+Number of records retrieved in searches: 919
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 5
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 21
+	Country: Unknown ; Times: 14
+	Country: United States ; Times: 32
+	Country: Croatia ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: Spain ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-04 ; Times: 12
+	Date: 2016-03-02 ; Times: 8
+	Date: 2016-03-10 ; Times: 8
+	Date: 2016-03-01 ; Times: 7
+	Date: 2016-03-08 ; Times: 3
+	Date: 2016-03-09 ; Times: 7
+	Date: 2016-03-06 ; Times: 8
+	Date: 2016-03-07 ; Times: 5
+	Date: 2016-03-14 ; Times: 4
+	Date: 2016-03-05 ; Times: 3
+	Date: 2016-03-11 ; Times: 12
+	Date: 2016-03-03 ; Times: 7
+	Date: 2016-03-13 ; Times: 2
+	Date: 2016-03-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "coleonyx switaki" ; Times: 3
+	Query: "Ambystoma jeffersonianum" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 3
+	Query: "type:specimen distance(location,geopoint(45.304772583725104,-62.7099609375))&lt;100000" ; Times: 1
+	Query: "genus:Chioglossa specificepithet:lusitanica" ; Times: 1
+	Query: "Oreolalax popei" ; Times: 2
+	Query: "Heloderma horridum horridum" ; Times: 1
+	Query: "Lynch Amphibia Peru" ; Times: 1
+	Query: "Paramesotriton deloustali mappable:1" ; Times: 1
+	Query: "Tylototriton" ; Times: 2
+	Query: "11054" ; Times: 1
+	Query: "ROM 30874" ; Times: 1
+	Query: "Hyalinobatrachium crurifasciatum" ; Times: 2
+	Query: "Crotalus pricei" ; Times: 1
+	Query: "tissue:1 Cophosaurus" ; Times: 1
+	Query: "phyllomedusa bicolor" ; Times: 1
+	Query: "Rhacophorus duboisi" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:boreas" ; Times: 1
+	Query: "Anniella geronimensis" ; Times: 1
+	Query: "ROM 41217" ; Times: 1
+	Query: "Chionactis palarostris" ; Times: 1
+	Query: "genus:Oophaga specificepithet:granulifera" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Anniella pulchra Mexico" ; Times: 1
+	Query: "ambystoma maculatum stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Calliophis" ; Times: 1
+	Query: "Paramesotriton deloustali" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 2
+	Query: "genus:Crotalus distance(location,geopoint(19.394067895396628,-99.07470703125))&lt;147296" ; Times: 1
+	Query: "VIPERA" ; Times: 2
+	Query: "ROM 18183" ; Times: 2
+	Query: "Bombina microdeladigitora" ; Times: 1
+	Query: "crotalus transversus" ; Times: 1
+	Query: "crotalus triseriatus" ; Times: 5
+	Query: "crotalus ravus" ; Times: 1
+	Query: "MCZ 40480" ; Times: 1
+	Query: "Rana johnsi" ; Times: 1
+	Query: "crotalus aquilus" ; Times: 3
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "Oreolalax schmidti" ; Times: 1
+	Query: "genus:Osteopilus specificepithet:vastus" ; Times: 1
+	Query: "Hypsiboas tissue:1" ; Times: 1
+	Query: "specificepithet:egregius county:&#34;levy&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "coleonyx fasciatus" ; Times: 2
+	Query: "Leptobrachium chapaense" ; Times: 1
+	Query: "draco maculatus" ; Times: 1
+	Query: "Beni Bolivia Amphibia" ; Times: 1
+	Query: "Anotheca spinosa" ; Times: 1
+	Query: "29992" ; Times: 2
+	Query: "catalognumber:27922 institutioncode:ROM" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "Lithobates sphenocephalus" ; Times: 2
+	Query: "spea bombifrons" ; Times: 1
+	Query: "lithobates areolatus" ; Times: 2
+	Query: "Vaupes Amphibia" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:americanus" ; Times: 1
+	Query: "Tylototriton andersoni" ; Times: 1
+	Query: "catalognumber:34429 institutioncode:ROM" ; Times: 1
+	Query: "genus:Duttaphrynus specificepithet:melanostictus" ; Times: 1
+	Query: "Leptolalax pelodytoides" ; Times: 1
+	Query: "genus:Necturus specificepithet:maculosus" ; Times: 1
+	Query: "genus:Agalychnis specificepithet:callidryas" ; Times: 2
+	Query: "crotalus tigris" ; Times: 1
+	Query: "plethodon glutinosus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "Rhacophorus hungfuensis" ; Times: 1
+	Query: "crotalus polystictus" ; Times: 1
+	Query: "Feihyla palpebralis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 55 (out of 230 download events in this period)
+Total number of records downloaded: 446812
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 50
+	Country: Kenya ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-10 ; Times: 6
+	Date: 2016-03-08 ; Times: 5
+	Date: 2016-03-09 ; Times: 14
+	Date: 2016-03-06 ; Times: 4
+	Date: 2016-03-14 ; Times: 7
+	Date: 2016-03-04 ; Times: 3
+	Date: 2016-03-12 ; Times: 2
+	Date: 2016-03-11 ; Times: 3
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-13 ; Times: 7
+	Date: 2016-03-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Tupinambis" ; Times: 1
+	Query: "class:amphibia country:&#34;Uganda&#34;" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "Dendropsophus microcephalus" ; Times: 1
+	Query: "Rhineura" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "tissue" ; Times: 39
+	Query: "Rainier class:amphibia county:&#34;Pierce&#34; stateprovince:&#34;Washington&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "gopherus type:specimen tissue:1" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Ambystoma jeffersonianum mappable:1" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Cnemidophorus sexlineatus" ; Times: 1
+	Query: "atractus trilineatus" ; Times: 1
+
+
+End of report.
