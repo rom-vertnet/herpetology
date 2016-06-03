@@ -1,0 +1,223 @@
+Report for Institution Code ROM, Resource herps
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 125
+Number of records retrieved in searches: 941
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 5
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 2
+	Country: Philippines ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 6
+	Country: Sweden ; Times: 6
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 7
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 77
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 2
+	Date: 2016-05-18 ; Times: 3
+	Date: 2016-05-17 ; Times: 2
+	Date: 2016-05-16 ; Times: 6
+	Date: 2016-05-15 ; Times: 2
+	Date: 2016-05-13 ; Times: 3
+	Date: 2016-05-12 ; Times: 4
+	Date: 2016-05-11 ; Times: 3
+	Date: 2016-05-10 ; Times: 2
+	Date: 2016-05-31 ; Times: 29
+	Date: 2016-05-30 ; Times: 5
+	Date: 2016-05-08 ; Times: 4
+	Date: 2016-05-09 ; Times: 4
+	Date: 2016-05-01 ; Times: 3
+	Date: 2016-05-02 ; Times: 4
+	Date: 2016-05-03 ; Times: 6
+	Date: 2016-05-04 ; Times: 4
+	Date: 2016-05-05 ; Times: 5
+	Date: 2016-05-07 ; Times: 3
+	Date: 2016-05-26 ; Times: 4
+	Date: 2016-05-27 ; Times: 1
+	Date: 2016-05-24 ; Times: 7
+	Date: 2016-05-25 ; Times: 4
+	Date: 2016-05-22 ; Times: 1
+	Date: 2016-05-23 ; Times: 4
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-21 ; Times: 3
+	Date: 2016-05-28 ; Times: 1
+	Date: 2016-05-29 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "crotalus oreganus" ; Times: 1
+	Query: "distance(location,geopoint(20.549036,-105.187516))&lt;15000" ; Times: 1
+	Query: "Bothriechis" ; Times: 1
+	Query: "lithobates septentrionalis" ; Times: 3
+	Query: "python molurus" ; Times: 1
+	Query: "genus:Oxyrhopus tissue:1" ; Times: 3
+	Query: "phyllomedusa bicolor" ; Times: 1
+	Query: "specificepithet:coriacea genus:Dermochelys" ; Times: 5
+	Query: "order:Anura (6584)" ; Times: 2
+	Query: "Crotalus pricei" ; Times: 1
+	Query: "catalognumber:53509" ; Times: 1
+	Query: "country:&#34;Brazil&#34; bahia" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Michigan&#34; mappable:1" ; Times: 1
+	Query: "crotalus mitchellii" ; Times: 1
+	Query: "ROM 31683" ; Times: 1
+	Query: "genus:Xenopus specificepithet:tropicalis" ; Times: 2
+	Query: "Phyllodactylus bordai" ; Times: 1
+	Query: "lithobates sylvaticus" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 2
+	Query: "Ungaliophis continentalis" ; Times: 2
+	Query: "sistrurus Cochise county" ; Times: 1
+	Query: "Pantherophis guttata" ; Times: 2
+	Query: "distance(location,geopoint(27.301036,-112.763516))&lt;15000" ; Times: 1
+	Query: "genus:clelia tissue:1" ; Times: 2
+	Query: "Agkistrodon contortrix stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "Anguis fragilis" ; Times: 1
+	Query: "Lygophis flavifrenatus" ; Times: 1
+	Query: "Uta stansburiana distance(location,geopoint(29.993002284551075,-116.279296875))&lt;100000" ; Times: 1
+	Query: "Echo Lake" ; Times: 1
+	Query: "Caiman yacare" ; Times: 1
+	Query: "Crotaphytus Vestigium" ; Times: 1
+	Query: "Ambystoma opacum stateprovince:&#34;South Carolina&#34;" ; Times: 3
+	Query: "Rhinocheilus lecontei Baja California" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 10
+	Query: "genus:Micrurus tissue:1" ; Times: 1
+	Query: "lithobates septentrionalis year &gt;= 1990 year &lt;= 2016 institutioncode:ROM" ; Times: 1
+	Query: "Anguis" ; Times: 6
+	Query: "phyllomedusa trinitatis" ; Times: 1
+	Query: "catalognumber:45140 institutioncode:ROM" ; Times: 1
+	Query: "urosaurus san diego county" ; Times: 1
+	Query: "Tropidophiidae" ; Times: 3
+	Query: "specificepithet:lepidus genus:Crotalus country:&#34;mexico&#34;" ; Times: 1
+	Query: "Gambelia wislizenii baja california sur" ; Times: 1
+	Query: "Leptotyphlops humilis baja california sur" ; Times: 1
+	Query: "manouria emys emys" ; Times: 1
+	Query: "family:Viperidae county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Los Angeles&#34; distance(location,geopoint(33.25706340236547,-117.103271484375))&lt;100000" ; Times: 1
+	Query: "Lampropeltis triangulum amaura" ; Times: 2
+	Query: "specificepithet:scutulatus genus:Crotalus family:Viperidae county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;Central&#34; country:&#34;Zambia&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus family:Viperidae county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "class:reptilia country:&#34;philippines&#34;" ; Times: 1
+	Query: "bothriechis aurifer" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-109.037516))&lt;15000" ; Times: 1
+	Query: "uma exsul" ; Times: 1
+	Query: "family:Viperidae county:&#34;Maricopa&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Anaxyrus punctatus Baja California Sur" ; Times: 1
+	Query: "plethodon wehrlei stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "leptodactylus fuscus" ; Times: 1
+	Query: "distance(location,geopoint(27.145036,-109.331516))&lt;15000" ; Times: 1
+	Query: "catalognumber:46487" ; Times: 1
+	Query: "Ambystoma jeffersonianum" ; Times: 1
+	Query: "sibleszi" ; Times: 1
+	Query: "catalognumber:44144" ; Times: 1
+	Query: "32603" ; Times: 1
+	Query: "distance(location,geopoint(27.379036,-114.245516))&lt;15000" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "catalognumber:44571" ; Times: 1
+	Query: "specificepithet:gigas genus:Hydrodynastes" ; Times: 1
+	Query: "pelusios gabonensis" ; Times: 1
+	Query: "ophiodes intermedius" ; Times: 1
+	Query: "distance(location,geopoint(27.223036,-112.919516))&lt;15000" ; Times: 2
+	Query: "genus:Hypsiboas specificepithet:crepitans" ; Times: 1
+	Query: "distance(location,geopoint(20.549036,-105.407516))&lt;15000" ; Times: 1
+	Query: "ROM 21704" ; Times: 1
+	Query: "class:reptilia country:&#34;Zambia&#34;" ; Times: 1
+	Query: "Graham county Crotalus pricei" ; Times: 1
+	Query: "tropidophiidae" ; Times: 2
+	Query: "distance(location,geopoint(27.149036,-109.367516))&lt;15000" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;Northern&#34; country:&#34;Zambia&#34;" ; Times: 1
+	Query: "Lichanura trivirgata baja california sur" ; Times: 1
+	Query: "Crotalus stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "ROM 31783" ; Times: 1
+	Query: "Aristelliger institutioncode:ROM" ; Times: 2
+	Query: "distance(location,geopoint(27.223036,-112.295516))&lt;15000" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus family:Viperidae county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Coleonyx" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 55 (out of 327 download events in this period)
+Total number of records downloaded: 3233
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 37
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Philippines ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Japan ; Times: 1
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 5
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-19 ; Times: 4
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-16 ; Times: 2
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-03 ; Times: 1
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-12 ; Times: 3
+	Date: 2016-05-11 ; Times: 1
+	Date: 2016-05-07 ; Times: 5
+	Date: 2016-05-27 ; Times: 1
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-31 ; Times: 21
+	Date: 2016-05-30 ; Times: 2
+	Date: 2016-05-20 ; Times: 3
+	Date: 2016-05-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "crotalus oreganus" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;Central&#34; country:&#34;Zambia&#34;" ; Times: 1
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 5
+	Query: "phyllomedusa trinitatis" ; Times: 1
+	Query: "Lacerta vivipara" ; Times: 2
+	Query: "heloderma horridum" ; Times: 4
+	Query: "genus:clelia tissue:1" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "Anguis fragilis" ; Times: 1
+	Query: "Lygophis flavifrenatus" ; Times: 2
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "genus:Oxyrhopus tissue:1" ; Times: 1
+	Query: "Hyla chrysoscelis" ; Times: 2
+	Query: "Python reticulatus" ; Times: 1
+	Query: "uta stansburiana" ; Times: 1
+	Query: "Iguanidae type:specimen (skeleton)" ; Times: 1
+	Query: "Caiman yacare" ; Times: 1
+	Query: "fowleri specificepithet:fowleri class:Amphibia" ; Times: 1
+	Query: "tribolonotus" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "Anguis" ; Times: 2
+	Query: "Phrynosoma platyrhinos CA" ; Times: 2
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "clamitans tissue:1" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;Northern&#34; country:&#34;Zambia&#34;" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 9
+	Query: "Dicamptodon" ; Times: 1
+	Query: "class:reptilia country:&#34;philippines&#34;" ; Times: 1
+	Query: "Eurycea" ; Times: 1
+	Query: "Lacerta agilis" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "elapidae mappable:1" ; Times: 1
+	Query: "Ambystoma macrodactylum" ; Times: 1
+
+
+End of report.
