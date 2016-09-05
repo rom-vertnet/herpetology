@@ -1,0 +1,333 @@
+Report for Institution Code ROM, Resource herps
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 365
+Number of records retrieved in searches: 4473
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 12
+	Country: Brazil ; Times: 20
+	Country: Australia ; Times: 6
+	Country: Mexico ; Times: 14
+	Country: Unknown ; Times: 55
+	Country: Nepal ; Times: 3
+	Country: France ; Times: 2
+	Country: Bahamas ; Times: 2
+	Country: Austria ; Times: 2
+	Country: Germany ; Times: 50
+	Country: United Kingdom ; Times: 6
+	Country: Colombia ; Times: 27
+	Country: Guyana ; Times: 1
+	Country: United States ; Times: 165
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 28
+	Date: 2016-08-11 ; Times: 7
+	Date: 2016-08-12 ; Times: 46
+	Date: 2016-08-14 ; Times: 4
+	Date: 2016-08-15 ; Times: 25
+	Date: 2016-08-16 ; Times: 11
+	Date: 2016-08-17 ; Times: 7
+	Date: 2016-08-18 ; Times: 28
+	Date: 2016-08-19 ; Times: 7
+	Date: 2016-08-30 ; Times: 18
+	Date: 2016-08-31 ; Times: 15
+	Date: 2016-08-29 ; Times: 2
+	Date: 2016-08-28 ; Times: 28
+	Date: 2016-08-25 ; Times: 19
+	Date: 2016-08-24 ; Times: 18
+	Date: 2016-08-27 ; Times: 33
+	Date: 2016-08-26 ; Times: 11
+	Date: 2016-08-21 ; Times: 7
+	Date: 2016-08-20 ; Times: 15
+	Date: 2016-08-09 ; Times: 1
+	Date: 2016-08-22 ; Times: 21
+	Date: 2016-08-23 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "Anolis chrysolepis 1" ; Times: 6
+	Query: "34126" ; Times: 1
+	Query: "pigeon lake" ; Times: 1
+	Query: "Tupinambis tissue:1" ; Times: 2
+	Query: "Spea hammondi" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 4
+	Query: "Megophrys parva" ; Times: 2
+	Query: "Bothriechis aurifer" ; Times: 1
+	Query: "Crotalus oreganus AND (viridis)" ; Times: 2
+	Query: "chelydra tissue:1" ; Times: 2
+	Query: "Bachia tissue:1" ; Times: 1
+	Query: "Lithobates clamitans country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Xantusia county:&#34;San Bernardino&#34; (vigilis) tissue:1" ; Times: 1
+	Query: "anguis fragilis" ; Times: 2
+	Query: "Ateuchosaurus chinensis" ; Times: 1
+	Query: "Crotalus viridis county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Pseudacris triseriata country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "genus:Pelophylax specificepithet:esculentus" ; Times: 1
+	Query: "Plethodon cinereus country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "ROM 32261" ; Times: 2
+	Query: "Plethodon cinereus tissue:1" ; Times: 1
+	Query: "Eurycea lucifuga county:&#34;Crawford&#34; stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "petropedetes natator type:specimen" ; Times: 1
+	Query: "type:specimen genus:tricheilostoma tissue:1" ; Times: 1
+	Query: "Hypsiboas cinerascens" ; Times: 12
+	Query: "ROM 41267" ; Times: 7
+	Query: "catalognumber:25201" ; Times: 1
+	Query: "Norops altae 1" ; Times: 6
+	Query: "bothriechis guatemala" ; Times: 4
+	Query: "specificepithet:catesbeianus genus:Lithobates" ; Times: 1
+	Query: "ROM 30117" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "Ambystoma tigrinum country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "genus:Lichanura stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lithobates pipiens country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Varanus nebulosus type:specimen tissue:1" ; Times: 1
+	Query: "CA 11098" ; Times: 3
+	Query: "type:specimen genus:leptotyphlops tissue:1" ; Times: 2
+	Query: "13787" ; Times: 1
+	Query: "Chilabothrus" ; Times: 2
+	Query: "specificepithet:poecilopleurus genus:cryptoblepharus locality:island" ; Times: 1
+	Query: "Pseudacris crucifer country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Anolis limifrons 1" ; Times: 9
+	Query: "boiga ceylonensis" ; Times: 3
+	Query: "Norops lemurinus 1" ; Times: 1
+	Query: "genus:Tupinambis tissue:1" ; Times: 1
+	Query: "Amphibia stateprovince:&#34;Louisiana&#34; institutioncode:ROM" ; Times: 1
+	Query: "clelia mexico" ; Times: 1
+	Query: "specificepithet:poecilopleurus genus:Cryptoblepharus locality:island" ; Times: 1
+	Query: "Ambystoma maculatum country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "pigeon lake ontario" ; Times: 1
+	Query: "melanostictus institutioncode:ROM" ; Times: 1
+	Query: "Trachemys ornata" ; Times: 1
+	Query: "Crotalus viridis tissue:1" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 9
+	Query: "genus:Salamandra specificepithet:atra" ; Times: 2
+	Query: "trivittata" ; Times: 2
+	Query: "Cylindrophis type:specimen tissue:1" ; Times: 1
+	Query: "ophisaurus ROM tissue:1" ; Times: 1
+	Query: "Kentropyx tissue:1" ; Times: 5
+	Query: "petropedetes type:specimen order:Anura" ; Times: 2
+	Query: "ROM ophisaurus" ; Times: 1
+	Query: "Anaxyrus hemiophrys country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Lithobates septentrionalis" ; Times: 1
+	Query: "Crotalus horridus stateprovince:new york" ; Times: 1
+	Query: "Hydrosaurus tissue:1" ; Times: 1
+	Query: "Gloydius shedaoensis" ; Times: 2
+	Query: "CA 5051" ; Times: 1
+	Query: "Dermochelys coriacea" ; Times: 1
+	Query: "anaxyrus" ; Times: 2
+	Query: "Lepidophyma tissue:1" ; Times: 1
+	Query: "cylindrophis tissue:1" ; Times: 31
+	Query: "Eleutherodactylus FMNH" ; Times: 1
+	Query: "crotalus horridus new york" ; Times: 5
+	Query: "Urosaurus bicarinatus" ; Times: 1
+	Query: "Lithobates catesbeianus country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "crotalus horridus niagara" ; Times: 1
+	Query: "specificepithet:constrictor genus:Boa tissue:1" ; Times: 1
+	Query: "Crotalus transversus" ; Times: 2
+	Query: "catenatus arizona" ; Times: 1
+	Query: "Leiolepis tissue:1" ; Times: 1
+	Query: "Eurycea bislineata country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Ambystoma laterale country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Necturus maculosus country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Anaxyrus americanus mappable:1" ; Times: 1
+	Query: "Varanus nebulosus type:specimen" ; Times: 1
+	Query: "Crotalus tancitarensis" ; Times: 1
+	Query: "Megophrys parva tissue:1" ; Times: 1
+	Query: "ROM 12810" ; Times: 1
+	Query: "anaxyrus americanus" ; Times: 1
+	Query: "chrysemys tissue:1" ; Times: 2
+	Query: "unam" ; Times: 1
+	Query: "Uromastyx tissue:1" ; Times: 1
+	Query: "Eumeces schneideri" ; Times: 2
+	Query: "brachymeles tissue:1" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 10
+	Query: "varanus nebulosus type:specimen" ; Times: 1
+	Query: "Leiolepis (reevesii) tissue:1" ; Times: 1
+	Query: "blandingii tissue:1" ; Times: 1
+	Query: "crotalus horridus youngstown new york" ; Times: 1
+	Query: "ROM 5596" ; Times: 3
+	Query: "calamaria gervaisii" ; Times: 1
+	Query: "Kinosternon leucostomum" ; Times: 1
+	Query: "Coleonyx switaki" ; Times: 8
+	Query: "Corucia type:specimen tissue:1" ; Times: 1
+	Query: "anolis limifrons" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus tissue:1" ; Times: 1
+	Query: "Coleonyx switaki preparations:skeleton" ; Times: 1
+	Query: "genus:Heloderma tissue:1" ; Times: 1
+	Query: "ROM 12809" ; Times: 1
+	Query: "10929" ; Times: 1
+	Query: "crotalus horridus new york niagara" ; Times: 7
+	Query: "specificepithet:teguixin genus:Tupinambis tissue:1" ; Times: 1
+	Query: "Ambystoma laterale" ; Times: 1
+	Query: "Tupinambis type:specimen tissue:1" ; Times: 1
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 2
+	Query: "genus:anilius" ; Times: 1
+	Query: "crotalus horridus new york ontario" ; Times: 1
+	Query: "14878" ; Times: 1
+	Query: "44536" ; Times: 1
+	Query: "type:specimen (anaxyrus)" ; Times: 1
+	Query: "Hyla chrysoscelis country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "genus:Shinisaurus tissue:1" ; Times: 1
+	Query: "Sistrurus" ; Times: 2
+	Query: "genus:Leptodactylus specificepithet:pentadactylus" ; Times: 1
+	Query: "Micrurus nigrocinctus" ; Times: 3
+	Query: "Crotalus triseriatus" ; Times: 1
+	Query: "Notophthalmus viridescens country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "crotalus tlaxcala" ; Times: 1
+	Query: "Varanus institutioncode:ROM tissue:1" ; Times: 1
+	Query: "lithobates" ; Times: 1
+	Query: "varanus rudicollis" ; Times: 1
+	Query: "Graham county Crotalus pricei" ; Times: 1
+	Query: "Hyla versicolor country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Anolis fuscoauratus 1" ; Times: 2
+	Query: "Cedros" ; Times: 1
+	Query: "type:specimen genus:epictia tissue:1" ; Times: 1
+	Query: "Coleonyx switaki type:specimen preparations:skeleton" ; Times: 1
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "Micrurus mipartitus" ; Times: 51
+	Query: "Acontias" ; Times: 2
+	Query: "tancitarensis" ; Times: 1
+	Query: "Varanus tissue:1" ; Times: 1
+	Query: "Norops biporcatus 1" ; Times: 1
+	Query: "varanus rudicollis type:specimen" ; Times: 1
+	Query: "varanus nebulosus" ; Times: 3
+	Query: "Plethodon glutinosus (Ohio)" ; Times: 1
+	Query: "Kaieteur" ; Times: 1
+	Query: "Lithobates sylvaticus" ; Times: 1
+	Query: "Cylindrophis tissue:1" ; Times: 8
+	Query: "Crotaphytus vestigium" ; Times: 12
+	Query: "Reptilia stateprovince:&#34;Louisiana&#34; institutioncode:ROM" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 2
+	Query: "specificepithet:imbricata genus:Eretmochelys" ; Times: 3
+	Query: "cercosaura tissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 99 (out of 924 download events in this period)
+Total number of records downloaded: 16717
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 20
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 65
+	Country: Germany ; Times: 2
+	Country: United Arab Emirates ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 12
+	Date: 2016-08-11 ; Times: 2
+	Date: 2016-08-12 ; Times: 3
+	Date: 2016-08-09 ; Times: 1
+	Date: 2016-08-29 ; Times: 9
+	Date: 2016-08-28 ; Times: 2
+	Date: 2016-08-16 ; Times: 3
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-18 ; Times: 4
+	Date: 2016-08-24 ; Times: 6
+	Date: 2016-08-27 ; Times: 3
+	Date: 2016-08-26 ; Times: 10
+	Date: 2016-08-21 ; Times: 3
+	Date: 2016-08-23 ; Times: 4
+	Date: 2016-08-22 ; Times: 15
+	Date: 2016-08-25 ; Times: 2
+	Date: 2016-08-30 ; Times: 10
+	Date: 2016-08-19 ; Times: 3
+	Date: 2016-08-14 ; Times: 3
+	Date: 2016-08-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "cylindrophis tissue:1" ; Times: 2
+	Query: "Varanus bengalensis bengalensis type:specimen" ; Times: 1
+	Query: "Micrurus nigrocinctus" ; Times: 1
+	Query: "anolis stratulus" ; Times: 1
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "Guanajuato" ; Times: 6
+	Query: "Anolis" ; Times: 1
+	Query: "anolis punctatus" ; Times: 1
+	Query: "Lithobates pipiens country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "anolis grahami" ; Times: 1
+	Query: "type:specimen (anaxyrus)" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "Phrynosoma mcallii" ; Times: 1
+	Query: "Sternotherus minor" ; Times: 1
+	Query: "Anaxyrus americanus country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Anaxyrus hemiophrys country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "anolis sericeus" ; Times: 1
+	Query: "Crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Notophthalmus viridescens country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Pseudacris crucifer country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "guanajuato" ; Times: 3
+	Query: "Imantodes cenchoa" ; Times: 1
+	Query: "Clelia clelia (Clelia AND clelia)" ; Times: 1
+	Query: "Ambystoma laterale country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Ambystoma maculatum country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Lithobates sylvaticus" ; Times: 1
+	Query: "Lepidophyma tissue:1" ; Times: 1
+	Query: "Lithobates clamitans country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "genus:Ficimia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "anolis krugi" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Plethodon cinereus tissue:1" ; Times: 1
+	Query: "anolis gundlachi" ; Times: 1
+	Query: "anolis garmani" ; Times: 1
+	Query: "Pituophis catenifer" ; Times: 2
+	Query: "Uromastyx tissue:1" ; Times: 1
+	Query: "Xantusia tissue:1" ; Times: 2
+	Query: "brachymeles tissue:1" ; Times: 1
+	Query: "Necturus maculosus country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Varanus institutioncode:ROM tissue:1" ; Times: 1
+	Query: "varanus nebulosus type:specimen" ; Times: 1
+	Query: "anolis cristatellus" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "varanus rudicollis type:specimen" ; Times: 2
+	Query: "Thousand Palms" ; Times: 1
+	Query: "Plethodon cinereus country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Plethodon glutinosus (Ohio)" ; Times: 1
+	Query: "Spea hammondi" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "Ambystoma tigrinum tigrinum AND (NOT mavortium) mappable:1" ; Times: 1
+	Query: "family:Uropeltidae" ; Times: 1
+	Query: "Coluber constrictor" ; Times: 1
+	Query: "anolis limifrons" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 2
+	Query: "type:specimen genus:Urosaurus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "Coleonyx switaki" ; Times: 1
+	Query: "Draco tissue:1" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "Elgaria tissue:1" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "anolis sagrei" ; Times: 1
+	Query: "genus:Phrynosoma tissue:1" ; Times: 1
+	Query: "GUANAJUATO" ; Times: 4
+	Query: "Ameiva tissue:1" ; Times: 1
+	Query: "type:specimen genus:Sceloporus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "varanus bengalensis" ; Times: 1
+	Query: "type:specimen family:Hyperoliidae" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "Hydrosaurus tissue:1" ; Times: 1
+	Query: "namiquipa" ; Times: 1
+	Query: "Lithobates septentrionalis" ; Times: 1
+	Query: "anolis oculatus" ; Times: 1
+	Query: "Crotalus viridis tissue:1" ; Times: 1
+	Query: "Hydromantes" ; Times: 1
+	Query: "cercosaura tissue:1" ; Times: 1
+	Query: "Ambystoma tigrinum country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Rhyacotriton olympicus" ; Times: 1
+	Query: "anolis chrysolepis chrysolepis" ; Times: 1
+
+
+End of report.
