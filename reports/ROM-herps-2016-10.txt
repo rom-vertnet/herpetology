@@ -1,0 +1,67 @@
+Report for Institution Code ROM, Resource herps
+Usage stats for October 2016, generated on 2016/11/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 359
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Portugal ; Times: 7
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 5
+	Country: Colombia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-10-14 ; Times: 1
+	Date: 2016-10-31 ; Times: 1
+	Date: 2016-10-10 ; Times: 1
+	Date: 2016-10-24 ; Times: 1
+	Date: 2016-10-26 ; Times: 3
+	Date: 2016-10-09 ; Times: 2
+	Date: 2016-10-19 ; Times: 1
+	Date: 2016-10-05 ; Times: 5
+	Date: 2016-10-02 ; Times: 2
+	Date: 2016-10-03 ; Times: 8
+	Date: 2016-10-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Xenopus laevis 1" ; Times: 1
+	Query: "Lithobates catesbeianus 1" ; Times: 1
+	Query: "Stefania evansi " ; Times: 1
+	Query: "Adelophryne patamona " ; Times: 1
+	Query: "Anolis tropidonotus 1" ; Times: 1
+	Query: "Chrysemys picta 1" ; Times: 2
+	Query: "Incilius valliceps" ; Times: 1
+	Query: "Anolis limifrons 1" ; Times: 1
+	Query: " Anolis limifrons 1" ; Times: 1
+	Query: "specificepithet:grammicus genus:Sceloporus mappable:1" ; Times: 3
+	Query: "Pelophylax esculentus 1" ; Times: 1
+	Query: " Agalychnis callidryas 1" ; Times: 1
+	Query: "Scinax staufferi" ; Times: 1
+	Query: "Rhinella marina" ; Times: 3
+	Query: "Anolis cristatellus 1" ; Times: 1
+	Query: "genus:Notophthalmus stateprovince:north carolina" ; Times: 1
+	Query: "Triturus alpestris 1" ; Times: 1
+	Query: "Lithobates berlandieri" ; Times: 1
+	Query: "Pelophylax ridibundus 1" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia mappable:1" ; Times: 1
+	Query: " Anolis fuscoauratus 1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 203 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
