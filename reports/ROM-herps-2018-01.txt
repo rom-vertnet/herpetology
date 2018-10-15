@@ -1,0 +1,525 @@
+Report for Institution Code ROM, Resource herps
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 686
+Number of records retrieved in searches: 2966
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Canada ; Times: 20
+	Country: Iran ; Times: 3
+	Country: Chile ; Times: 5
+	Country: Mexico ; Times: 129
+	Country: Unknown ; Times: 16
+	Country: Peru ; Times: 1
+	Country: United States ; Times: 464
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 12
+	Country: Colombia ; Times: 4
+	Country: Denmark ; Times: 3
+	Country: Belgium ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Bolivia ; Times: 12
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 8
+	Date: 2018-01-18 ; Times: 17
+	Date: 2018-01-31 ; Times: 13
+	Date: 2018-01-30 ; Times: 2
+	Date: 2018-01-11 ; Times: 24
+	Date: 2018-01-10 ; Times: 28
+	Date: 2018-01-13 ; Times: 5
+	Date: 2018-01-12 ; Times: 17
+	Date: 2018-01-15 ; Times: 10
+	Date: 2018-01-14 ; Times: 4
+	Date: 2018-01-17 ; Times: 69
+	Date: 2018-01-16 ; Times: 11
+	Date: 2018-01-24 ; Times: 122
+	Date: 2018-01-25 ; Times: 23
+	Date: 2018-01-08 ; Times: 17
+	Date: 2018-01-09 ; Times: 3
+	Date: 2018-01-28 ; Times: 3
+	Date: 2018-01-29 ; Times: 6
+	Date: 2018-01-02 ; Times: 2
+	Date: 2018-01-03 ; Times: 12
+	Date: 2018-01-26 ; Times: 10
+	Date: 2018-01-01 ; Times: 7
+	Date: 2018-01-06 ; Times: 3
+	Date: 2018-01-21 ; Times: 59
+	Date: 2018-01-22 ; Times: 23
+	Date: 2018-01-07 ; Times: 4
+	Date: 2018-01-04 ; Times: 21
+	Date: 2018-01-05 ; Times: 23
+	Date: 2018-01-23 ; Times: 133
+	Date: 2018-01-27 ; Times: 1
+	Date: 2018-01-20 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:punctatus genus:Anaxyrus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Tantilla schistosa" ; Times: 2
+	Query: "Hydrosaurus Sulawesi" ; Times: 1
+	Query: "Clelia clelia" ; Times: 2
+	Query: "specificepithet:enyo genus:Crotalus" ; Times: 1
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "leptodactylus rugosus" ; Times: 1
+	Query: "genus:Oxyrhopus country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "Ctenophryne geayi" ; Times: 8
+	Query: "Spilotes pullatus" ; Times: 2
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "specificepithet:ater genus:Sauromalus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "cryptobranchidae" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "distance(location,geopoint(44.9631889075001,-67.255953717))&lt;23438" ; Times: 2
+	Query: "eleutherodactylus discoidalis" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla year &gt;= 1980 year &lt;= 2017" ; Times: 1
+	Query: "Kinosternon acutum" ; Times: 2
+	Query: "genus:Philodryas country:&#34;Bolivia&#34; institutioncode:ROM" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:hemiophrys" ; Times: 1
+	Query: "ophisaurus gracilis" ; Times: 3
+	Query: "42679" ; Times: 1
+	Query: "Micryletta inornata" ; Times: 1
+	Query: "vntype:specimen specificepithet:stansburiana genus:Uta hastissue:1" ; Times: 1
+	Query: "specificepithet:jaculus genus:eryx hastissue:1" ; Times: 1
+	Query: "Ctenosaura similis" ; Times: 2
+	Query: "Raorchestes" ; Times: 1
+	Query: "Calotes versicolor" ; Times: 2
+	Query: "Anomaloglossus beebei" ; Times: 3
+	Query: "specificepithet:draconoides genus:Callisaurus county:&#34;Imperial&#34; stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "pareas" ; Times: 4
+	Query: "specificepithet:variegata genus:Natriciteres hastissue:1" ; Times: 1
+	Query: "Hyperolius chlorosteus" ; Times: 2
+	Query: "specificepithet:variegatus genus:Coleonyx stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "blombergi" ; Times: 1
+	Query: "Allobates trilineatus" ; Times: 3
+	Query: "specificepithet:licki genus:Sceloporus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Theloderma asperum" ; Times: 2
+	Query: "specificepithet:nigricaudus genus:Urosaurus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Sphaerodactylus glaucus" ; Times: 3
+	Query: "specificepithet:repens genus:Petrosaurus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:18232 institutioncode:rom" ; Times: 1
+	Query: "Rhacophorus dennysi hassex:1" ; Times: 8
+	Query: "catalognumber:31712 institutioncode:ROM" ; Times: 2
+	Query: "Crotalus ruber" ; Times: 1
+	Query: "catalognumber:18144 institutioncode:rom" ; Times: 3
+	Query: "Oxybelis fulgidus" ; Times: 2
+	Query: "catalognumber:1609 institutioncode:ROM" ; Times: 1
+	Query: "Atropoides nummifer" ; Times: 2
+	Query: "Drymobius margaritiferus" ; Times: 2
+	Query: "gbifdatasetid:cd875b5a-b3fe-48f2-94c7-371cab1431f3" ; Times: 1
+	Query: "specificepithet:humilis genus:Leptotyphlops stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Odorrana junlianensis hassex:1" ; Times: 2
+	Query: "Chilabothrus chrysogaster" ; Times: 1
+	Query: "bolitoglossa adspersa" ; Times: 1
+	Query: "Ambystoma laterale hastissue:1" ; Times: 3
+	Query: "Adelophryne gutturosa hassex:1" ; Times: 4
+	Query: "Cardioglossa leucomystax" ; Times: 1
+	Query: "specificepithet:xanti genus:Phyllodactylus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Dermatemys mawii" ; Times: 2
+	Query: "ROM-47843" ; Times: 1
+	Query: "Allophryne ruthveni" ; Times: 7
+	Query: "specificepithet:notata genus:Uma stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "Sceloporus variabilis" ; Times: 1
+	Query: "genus:Bothriechis" ; Times: 1
+	Query: "Anomaloglossus praderioi" ; Times: 3
+	Query: "catalognumber:1317 institutioncode:ROM" ; Times: 1
+	Query: "Scutiger glandulatus" ; Times: 2
+	Query: "lithobates areolatus" ; Times: 2
+	Query: "specificepithet:ochrophaeus genus:Desmognathus hastissue:1" ; Times: 2
+	Query: "Bombina microdeladigitora hassex:1" ; Times: 3
+	Query: "Hypsiboas cinerascens" ; Times: 2
+	Query: "specificepithet:rudis genus:neusticurus" ; Times: 1
+	Query: "genus:eryx hastissue:1" ; Times: 3
+	Query: "Ingerophrynus galeatus hassex:1" ; Times: 6
+	Query: "Lithobates vaillanti" ; Times: 1
+	Query: "Canada lynx" ; Times: 1
+	Query: "Amietia fuscigula hassex:1" ; Times: 3
+	Query: "sphenodon punctatus" ; Times: 3
+	Query: "stateprovince:&#34;Espirito Santo&#34; country:&#34;Brazil&#34; institutioncode:ROM" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 2
+	Query: "Pristimantis inguinalis hassex:1" ; Times: 2
+	Query: "Lepidobatrachus laevis" ; Times: 1
+	Query: "Phyllomedusa atelopoides" ; Times: 2
+	Query: "Agalychnis callidryas" ; Times: 1
+	Query: "distance(location,geopoint(44.9725155310001,-72.6967921945))&lt;41043" ; Times: 2
+	Query: "Calotes versicolor Malaysia" ; Times: 1
+	Query: "Under rock class:Amphibia country:&#34;United States&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 2
+	Query: "Anomaloglossus beebei hassex:1" ; Times: 3
+	Query: "Dendropsophus minutus" ; Times: 3
+	Query: "Bufo cryptotympanicus" ; Times: 3
+	Query: "Sistrurus catenatus" ; Times: 2
+	Query: "specificepithet:nigricaudus genus:urosaurus stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "Bufo cryptotympanicus hassex:1" ; Times: 3
+	Query: "Stefania coxi" ; Times: 2
+	Query: "catalognumber:1290" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa" ; Times: 1
+	Query: "Porthidium nasutum" ; Times: 2
+	Query: "Anolis limifrons" ; Times: 1
+	Query: "notophthalmus meridionalis" ; Times: 1
+	Query: "catalognumber:1044" ; Times: 1
+	Query: "specificepithet:graciosus genus:urosaurus stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "Corallus" ; Times: 4
+	Query: "Lithobates berlandieri" ; Times: 1
+	Query: "Senticolis triaspis" ; Times: 2
+	Query: "29233" ; Times: 3
+	Query: "Leptodactylus melanonotus" ; Times: 1
+	Query: "isla san jose" ; Times: 1
+	Query: "specificepithet:atemporalis genus:Amphiesma hastissue:1" ; Times: 1
+	Query: "specificepithet:graciosus genus:Urosaurus county:&#34;Imperial&#34; stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "specificepithet:enyo genus:Crotalus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "Hyla annectans hassex:1" ; Times: 2
+	Query: "Quasipaa spinosa" ; Times: 6
+	Query: "crotalus lepidus" ; Times: 2
+	Query: "genus:Afronatrix hastissue:1" ; Times: 1
+	Query: "specificepithet:enyo genus:Crotalus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:brachyphona genus:pseudacris stateprovince:&#34;virginia&#34; mappable:1" ; Times: 1
+	Query: "36607" ; Times: 3
+	Query: "rom 12055" ; Times: 1
+	Query: "genus:bogertophis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "ambystoma mabeei" ; Times: 3
+	Query: "Hypsiboas boans" ; Times: 1
+	Query: "specificepithet:areolatus genus:lithobates" ; Times: 1
+	Query: "specificepithet:switaki genus:Coleonyx stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Vitreorana gorzulae" ; Times: 2
+	Query: "specificepithet:palpebralespinosa institutioncode:ROM" ; Times: 4
+	Query: "micrurus fulvius" ; Times: 1
+	Query: "Hypsiboas multifasciatus" ; Times: 2
+	Query: "Hypsiboas lemai" ; Times: 2
+	Query: "plu" ; Times: 1
+	Query: "Dendropsophus ebraccatus" ; Times: 1
+	Query: "genus:heterodon simus stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "pseudacris ornata" ; Times: 1
+	Query: "&#34;Clemmys guttata&#34; hastissue:1" ; Times: 3
+	Query: "specificepithet:najadum genus:coluber year &gt;= 1980 hastissue:1" ; Times: 2
+	Query: "class:reptilia locality:Valle de bravo" ; Times: 1
+	Query: "family:Uropeltidae institutioncode:ROM" ; Times: 1
+	Query: "Quasipaa spinosa hassex:1" ; Times: 6
+	Query: "Pelophylax nigromaculatus" ; Times: 6
+	Query: "institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "24880" ; Times: 1
+	Query: "Feihyla palpebralis hassex:1" ; Times: 2
+	Query: "genus:Pelamis continent:Europe" ; Times: 3
+	Query: "sphaerodactylus glaucus" ; Times: 1
+	Query: "Vitreorana helenae hassex:1" ; Times: 8
+	Query: "Babina chapaensis" ; Times: 6
+	Query: "Odorrana chapaensis" ; Times: 2
+	Query: "specificepithet:hunsakeri genus:Sceloporus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Gracixalus gracilipes hassex:1" ; Times: 2
+	Query: "Leptobrachium banae hassex:1" ; Times: 2
+	Query: "Leptophis ahaetulla" ; Times: 2
+	Query: "Japalura yunnan" ; Times: 1
+	Query: "Anolis tropidonotus" ; Times: 2
+	Query: "genus:Uta hastissue:1" ; Times: 1
+	Query: "genus:Uta county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 2
+	Query: "genus:Uta county:&#34;Imperial&#34; stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "Chiromantis doriae hassex:1" ; Times: 3
+	Query: "Pliocercus elapoides" ; Times: 2
+	Query: "Stenorrhina degenhardtii" ; Times: 2
+	Query: "Dendropsophus microcephalus" ; Times: 1
+	Query: "genus:Petrosaurus stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "Pristimantis marmoratus hassex:1" ; Times: 2
+	Query: "specificepithet:vigilis genus:Xantusia county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 2
+	Query: "gloydius halys" ; Times: 1
+	Query: "Amolops spinapectoralis hassex:1" ; Times: 3
+	Query: "specificepithet:nocticolus genus:Phyllodactylus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 2
+	Query: "Rhacophorus hungfuensis" ; Times: 2
+	Query: "Oreolalax major" ; Times: 2
+	Query: "Dermochelys coriacea" ; Times: 3
+	Query: "Coleonyx elegans" ; Times: 2
+	Query: "Hypopachus variolosus" ; Times: 1
+	Query: "Hyalinobatrachium crurifasciatum hassex:1" ; Times: 2
+	Query: "Tropidodipsas sartorii" ; Times: 2
+	Query: "Crotalus intermedius" ; Times: 1
+	Query: "genus:Gambelia county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:labialis genus:Cnemidophorus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "14014" ; Times: 1
+	Query: "Pristimantis marmoratus" ; Times: 2
+	Query: "catalognumber:35341" ; Times: 1
+	Query: "rom 36789" ; Times: 1
+	Query: "Eleutherodactylus zugi hassex:1" ; Times: 2
+	Query: "Coniophanes fissidens" ; Times: 2
+	Query: "specificepithet:trivirgata genus:Lichanura stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:31709 institutioncode:ROM" ; Times: 2
+	Query: "Pseudacris maculata hassex:1" ; Times: 2
+	Query: "specificepithet:natrix genus:natrix year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "Laemanctus longipes" ; Times: 2
+	Query: "Ambystoma annulatum" ; Times: 1
+	Query: "Stefania scalae hassex:1" ; Times: 2
+	Query: "genus:Opisthotropis hastissue:1" ; Times: 3
+	Query: "Bothriechis aurifer" ; Times: 2
+	Query: "Rhacophorus omeimontis" ; Times: 2
+	Query: "oophaga histrionica" ; Times: 1
+	Query: "coleonyx brevis" ; Times: 1
+	Query: "Thecadactylus rapicauda" ; Times: 2
+	Query: "Odorrana jingdongensis" ; Times: 2
+	Query: "Imantodes cenchoa" ; Times: 2
+	Query: "37991 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:stansburiana genus:Uta hastissue:1" ; Times: 1
+	Query: "catalognumber:18385 institutioncode:ROM" ; Times: 1
+	Query: "macrovipera lebetina" ; Times: 2
+	Query: "Ceuthomantis smaragdinus hassex:1" ; Times: 9
+	Query: "rom 31476" ; Times: 4
+	Query: "Varanus komodoensis" ; Times: 3
+	Query: "petrosaurus thalassinus" ; Times: 1
+	Query: "Scutiger glandulatus hassex:1" ; Times: 2
+	Query: "specificepithet:texanum genus:ambystoma" ; Times: 1
+	Query: "Leptobrachella baluensis" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 7
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Venezuela&#34;" ; Times: 2
+	Query: "specificepithet:fallax genus:telescopus hastissue:1" ; Times: 1
+	Query: "Wood pile" ; Times: 5
+	Query: "Myersiohyla kanaima hassex:1" ; Times: 2
+	Query: "class:Amphibia stateprovince:&#34;Louisiana&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:vestigium genus:Crotaphytus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Mastigodryas melanolomus" ; Times: 2
+	Query: "Crotalus tlaloci" ; Times: 1
+	Query: "Staurotypus triporcatus" ; Times: 2
+	Query: "Kurixalus odontotarsus hassex:1" ; Times: 8
+	Query: "specificepithet:catalinensis genus:Crotalus hastissue:1" ; Times: 1
+	Query: "Craugastor rugulosus" ; Times: 4
+	Query: "stateprovince:&#34;Minas Gerais&#34; country:&#34;Brazil&#34; institutioncode:ROM" ; Times: 1
+	Query: "Scincella cherriei" ; Times: 2
+	Query: "coleonyx variegatus sonora mexico" ; Times: 3
+	Query: "genus:Leptodactylus specificepithet:validus" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 4
+	Query: "Craugastor palenque" ; Times: 1
+	Query: "Adelophryne gutturosa" ; Times: 1
+	Query: "specificepithet:enyo genus:Crotalus hastissue:1" ; Times: 1
+	Query: "genus:Petrosaurus county:&#34;Imperial&#34; stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "AMNH reptiles" ; Times: 1
+	Query: "genus:Amphiesma hastissue:1" ; Times: 2
+	Query: "24291" ; Times: 1
+	Query: "genus:crotalus country:&#34;mexico&#34; hastissue:1" ; Times: 1
+	Query: "Scutiger chintingensis" ; Times: 2
+	Query: "Eleutherodactylus dimidiatus hassex:1" ; Times: 2
+	Query: "Hypsiboas roraima hassex:1" ; Times: 2
+	Query: "Babina pleuraden hassex:1" ; Times: 6
+	Query: "genus:Gonatodes family:Sphaerodactylidae class:reptilia" ; Times: 1
+	Query: "Scinax staufferi" ; Times: 1
+	Query: "Chiromantis doriae" ; Times: 3
+	Query: "Tretanorhinus nigroluteus" ; Times: 2
+	Query: "Rhaebo" ; Times: 1
+	Query: "specificepithet:chapaensis hastissue:1" ; Times: 2
+	Query: "Sauromalus ater" ; Times: 3
+	Query: "17892" ; Times: 1
+	Query: "specificepithet:stansburiana genus:Uta stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Stefania coxi hassex:1" ; Times: 2
+	Query: "specificepithet:media genus:Lacerta year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "Leptodactylus macrosternum" ; Times: 1
+	Query: "Hyla annectans" ; Times: 2
+	Query: "21220" ; Times: 1
+	Query: "Philautus banaensis hassex:1" ; Times: 2
+	Query: "specificepithet:draconoides genus:Callisaurus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Podocnemis unifilis" ; Times: 1
+	Query: "Pseudacris maculata hastissue:1" ; Times: 4
+	Query: "Pristimantis inguinalis" ; Times: 2
+	Query: "specificepithet:guttata family:emydidae" ; Times: 1
+	Query: "Oxyrhopus petolarius" ; Times: 2
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "Cerrophidion godmani" ; Times: 2
+	Query: "Eleutherodactylus zugi" ; Times: 2
+	Query: "Craugastor rugulosus hassex:1" ; Times: 2
+	Query: "Coniophanes piceivittis" ; Times: 3
+	Query: "18139" ; Times: 1
+	Query: "Hyalinobatrachium crurifasciatum" ; Times: 2
+	Query: "Pseudelaphe flavirufa" ; Times: 2
+	Query: "specificepithet:lepidus genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Hypsiboas lemai hassex:1" ; Times: 2
+	Query: "Crotalus ravus Guerrero" ; Times: 1
+	Query: "Osteocephalus oophagus hassex:1" ; Times: 2
+	Query: "genus:Gonatodes family:Sphaerodactylidae order:Squamata class:reptilia year &gt;= 1999 year &lt;= 2018" ; Times: 1
+	Query: "coleonyx reticulatus" ; Times: 1
+	Query: "Philautus banaensis" ; Times: 2
+	Query: "genus:Philodryas institutioncode:ROM" ; Times: 4
+	Query: "specificepithet:tessellata genus:natrix year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "catalognumber:10738" ; Times: 3
+	Query: "&#34;Ambystoma laterale&#34; hastissue:1" ; Times: 2
+	Query: "Leptodeira frenata" ; Times: 2
+	Query: "genus:algyroides year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "catalognumber:31710 institutioncode:ROM" ; Times: 2
+	Query: "coleonyx fasciatus" ; Times: 1
+	Query: "catalognumber:32470 institutioncode:ROM" ; Times: 2
+	Query: "Crotalus ruber San Diego" ; Times: 2
+	Query: "Babina pleuraden" ; Times: 6
+	Query: "Leptodeira septentrionalis" ; Times: 2
+	Query: "specificepithet:vestigium genus:Crotaphytus stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "specificepithet:pardalis genus:Tropidophis country:&#34;Cuba&#34;" ; Times: 1
+	Query: "Kurixalus odontotarsus" ; Times: 8
+	Query: "Stefania evansi hassex:1" ; Times: 2
+	Query: "Drymarchon corais" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Hylarana guentheri hassex:1" ; Times: 6
+	Query: "Odorrana junlianensis" ; Times: 2
+	Query: "specificepithet:striatus genus:pseudobranchus" ; Times: 1
+	Query: "Odorrana jingdongensis hassex:1" ; Times: 2
+	Query: "Vitreorana helenae" ; Times: 8
+	Query: "Pristimantis acuminatus hassex:1" ; Times: 2
+	Query: "specificepithet:Insularis hastissue:1" ; Times: 1
+	Query: "catalognumber:31718 institutioncode:ROM" ; Times: 2
+	Query: "Myersiohyla kanaima" ; Times: 2
+	Query: "Kinosternon leucostomum" ; Times: 2
+	Query: "Chiromantis vittatus" ; Times: 3
+	Query: "Rhacophorus hungfuensis hassex:1" ; Times: 2
+	Query: "tantilla tissue" ; Times: 4
+	Query: "class:amphibia stateprovince:&#34;Ninh Binh&#34; country:&#34;vietnam&#34;" ; Times: 1
+	Query: "specificepithet:triseriatus genus:Crotalus hastissue:1" ; Times: 2
+	Query: "Masticophis durango" ; Times: 1
+	Query: "Ingerophrynus galeatus" ; Times: 6
+	Query: "catalognumber:18244 institutioncode:rom" ; Times: 1
+	Query: "Necturus punctatus" ; Times: 1
+	Query: "Synapturanus hassex:1" ; Times: 6
+	Query: "(PHRYNOSOMATIDAE) basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:draconoides genus:Callisaurus stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "genus:Dipsosaurus county:&#34;Imperial&#34; stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "genus:heterodon platyrhinos stateprovince:&#34;florida&#34;" ; Times: 2
+	Query: "Scutiger chintingensis hassex:1" ; Times: 2
+	Query: "Crotalus horridus" ; Times: 4
+	Query: "specificepithet:velazquezi genus:Elgaria stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Rhinella marina" ; Times: 1
+	Query: "Rhaebo nasicus" ; Times: 6
+	Query: "Coniophanes imperialis" ; Times: 2
+	Query: "Odorrana chapaensis hassex:1" ; Times: 2
+	Query: "Tropidophis pardalis" ; Times: 1
+	Query: "crotalus utah" ; Times: 1
+	Query: "Vitreorana gorzulae hassex:1" ; Times: 2
+	Query: "Coleonyx variegatus Sonora Mexico" ; Times: 3
+	Query: "Micrurus diastema" ; Times: 2
+	Query: "genus:Xantusia county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 2
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "Chiromantis vittatus hassex:1" ; Times: 3
+	Query: "Crotalus lorenzoensis" ; Times: 10
+	Query: "specificepithet:natrix genus:Natrix year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "Oreolalax multipunctatus" ; Times: 2
+	Query: "genus:Sauromalus county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Hypsiboas multifasciatus hassex:1" ; Times: 2
+	Query: "Theloderma bicolor" ; Times: 2
+	Query: "Eleutherodactylus cuneatus hassex:1" ; Times: 2
+	Query: "Leptobrachium banae" ; Times: 2
+	Query: "40439 institutioncode:ROM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 86 (out of 1398 download events in this period)
+Total number of records downloaded: 5414
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Iran ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Mexico ; Times: 32
+	Country: United States ; Times: 40
+	Country: United Kingdom ; Times: 4
+	Country: Colombia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-18 ; Times: 3
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-09 ; Times: 2
+	Date: 2018-01-29 ; Times: 4
+	Date: 2018-01-02 ; Times: 2
+	Date: 2018-01-25 ; Times: 15
+	Date: 2018-01-13 ; Times: 3
+	Date: 2018-01-12 ; Times: 6
+	Date: 2018-01-15 ; Times: 3
+	Date: 2018-01-07 ; Times: 1
+	Date: 2018-01-17 ; Times: 2
+	Date: 2018-01-05 ; Times: 4
+	Date: 2018-01-24 ; Times: 1
+	Date: 2018-01-30 ; Times: 2
+	Date: 2018-01-03 ; Times: 1
+	Date: 2018-01-31 ; Times: 8
+	Date: 2018-01-16 ; Times: 1
+	Date: 2018-01-10 ; Times: 20
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-11 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:labialis genus:Cnemidophorus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "pituophis deppei" ; Times: 2
+	Query: "Ambystoma jeffersonianum" ; Times: 1
+	Query: "specificepithet:draconoides genus:Callisaurus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Gambelia county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "leptodactylus rugosus" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "specificepithet:coronatum genus:Phrynosoma stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:enyo genus:Crotalus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Amphiesma hastissue:1" ; Times: 1
+	Query: "specificepithet:ater genus:Sauromalus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "allobates femoralis" ; Times: 1
+	Query: "specificepithet:variegatus genus:Coleonyx stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "stateprovince:mississippi class:reptilia" ; Times: 1
+	Query: "Ambystoma annulatum" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "genus:Dipsosaurus county:&#34;Imperial&#34; stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "specificepithet:graciosus genus:urosaurus stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "specificepithet:stansburiana genus:Uta stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Tantilla year &lt;= 1920" ; Times: 1
+	Query: "spea intermontana" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "oophaga histrionica" ; Times: 2
+	Query: "specificepithet:biporus genus:Bipes stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Ensatina" ; Times: 1
+	Query: "specificepithet:mitchellii genus:Crotalus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:humilis genus:Leptotyphlops stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:draconoides genus:Callisaurus county:&#34;Imperial&#34; stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "pareas" ; Times: 1
+	Query: "specificepithet:ruber genus:Crotalus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "macrovipera lebetina" ; Times: 1
+	Query: "genus:Rhabdophis hastissue:1" ; Times: 1
+	Query: "specificepithet:licki genus:Sceloporus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "genus:Opisthotropis hastissue:1" ; Times: 1
+	Query: "specificepithet:hemilopha genus:Ctenosaura stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 1
+	Query: "specificepithet:switaki genus:Coleonyx stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:nocticolus genus:Phyllodactylus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:punctatus genus:Anaxyrus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:repens genus:Petrosaurus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:hunsakeri genus:Sceloporus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Rana aurora" ; Times: 1
+	Query: "class:reptilia locality:Valle de bravo" ; Times: 1
+	Query: "specificepithet:trivirgata genus:Lichanura stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "order:Testudines (road OR vehicle)" ; Times: 1
+	Query: "genus:Sauromalus county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "petropedetes" ; Times: 1
+	Query: "specificepithet:xanti genus:Phyllodactylus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "Aneides flavipunctatus flavipunctatus" ; Times: 1
+	Query: "specificepithet:regilla genus:Pseudacris stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:aeneus genus:Aneides" ; Times: 1
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "dasypeltis scabra" ; Times: 1
+	Query: "specificepithet:nigricaudus genus:Urosaurus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:velazquezi genus:Elgaria stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:vestigium genus:Crotaphytus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:boa" ; Times: 1
+	Query: "stateprovince:mississippi class:amphibia" ; Times: 1
+	Query: "notophthalmus meridionalis" ; Times: 1
+	Query: "specificepithet:orcutti genus:Sceloporus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "anniella" ; Times: 1
+	Query: "specificepithet:thalassinus genus:Petrosaurus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "genus:Petrosaurus county:&#34;Imperial&#34; stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 2
+	Query: "Aneides flavipunctatus" ; Times: 3
+	Query: "litoria caerulea" ; Times: 1
+	Query: "amphibia madagascar" ; Times: 1
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "specificepithet:unctus genus:Phyllodactylus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "(PHRYNOSOMATIDAE) basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "crotalus horridus" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Dipsosaurus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+
+
+End of report.
