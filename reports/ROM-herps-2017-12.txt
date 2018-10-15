@@ -1,0 +1,334 @@
+Report for Institution Code ROM, Resource herps
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 271
+Number of records retrieved in searches: 2178
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 10
+	Country: Brazil ; Times: 15
+	Country: Iran ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 16
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 176
+	Country: China ; Times: 22
+	Country: French Guiana ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Greece ; Times: 1
+	Country: Italy ; Times: 7
+	Country: Dominican Republic ; Times: 3
+	Country: Germany ; Times: 5
+	Country: Norway ; Times: 3
+	Country: South Korea ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-30 ; Times: 6
+	Date: 2017-12-16 ; Times: 10
+	Date: 2017-12-17 ; Times: 6
+	Date: 2017-12-14 ; Times: 5
+	Date: 2017-12-15 ; Times: 5
+	Date: 2017-12-12 ; Times: 27
+	Date: 2017-12-13 ; Times: 14
+	Date: 2017-12-10 ; Times: 5
+	Date: 2017-12-11 ; Times: 6
+	Date: 2017-12-18 ; Times: 31
+	Date: 2017-12-19 ; Times: 7
+	Date: 2017-12-29 ; Times: 8
+	Date: 2017-12-28 ; Times: 1
+	Date: 2017-12-27 ; Times: 1
+	Date: 2017-12-26 ; Times: 15
+	Date: 2017-12-24 ; Times: 5
+	Date: 2017-12-23 ; Times: 2
+	Date: 2017-12-22 ; Times: 4
+	Date: 2017-12-21 ; Times: 10
+	Date: 2017-12-20 ; Times: 9
+	Date: 2017-12-05 ; Times: 17
+	Date: 2017-12-04 ; Times: 13
+	Date: 2017-12-07 ; Times: 6
+	Date: 2017-12-06 ; Times: 12
+	Date: 2017-12-01 ; Times: 18
+	Date: 2017-12-03 ; Times: 8
+	Date: 2017-12-02 ; Times: 2
+	Date: 2017-12-09 ; Times: 5
+	Date: 2017-12-08 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "Liopeltis" ; Times: 1
+	Query: "scugog" ; Times: 2
+	Query: "specificepithet:cerastes genus:Crotalus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "distance(location,geopoint(44.9631889075001,-67.255953717))&lt;23438" ; Times: 1
+	Query: "Opisthotropis lateralis" ; Times: 2
+	Query: "class:amphibia catalognumber:39249" ; Times: 1
+	Query: "specificepithet:molossus genus:crotalus hastissue:1" ; Times: 2
+	Query: "tantilla melanocephala" ; Times: 1
+	Query: "tropidodipsas sartorii" ; Times: 1
+	Query: "sceloporus licki" ; Times: 1
+	Query: "Canadian Lynx" ; Times: 1
+	Query: "vntype:specimen (Liophis) basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Crotalus catalognumber:42405" ; Times: 2
+	Query: "sauromalus ater ontario" ; Times: 1
+	Query: "Tropidophis" ; Times: 1
+	Query: "Lampropeltis getula stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "ambystoma annulatum" ; Times: 1
+	Query: "Sphaerodactylus glaucus" ; Times: 1
+	Query: "Aspidelaps scutatus" ; Times: 3
+	Query: "Coleonyx variegatus Baja California" ; Times: 3
+	Query: "19403" ; Times: 1
+	Query: "specificepithet:mabeei year &gt;= 1959 mappable:1" ; Times: 1
+	Query: "Micrurus dissoleucus" ; Times: 2
+	Query: "arroyo family:Viperidae stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "thoropa" ; Times: 1
+	Query: "catalognumber:47641" ; Times: 2
+	Query: "Coleonyx mitratus" ; Times: 1
+	Query: "Acanthodactylus tristrami" ; Times: 1
+	Query: "specificepithet:mossambica genus:naja" ; Times: 1
+	Query: "Ambystoma jasper" ; Times: 1
+	Query: "pseudotriton jersey" ; Times: 1
+	Query: "Sinomicrurus kelloggi" ; Times: 1
+	Query: "Calotes versicolor" ; Times: 3
+	Query: "44494" ; Times: 1
+	Query: "Odontophrynus americanus mappable:1" ; Times: 1
+	Query: "genus:Xenopus specificepithet:tropicalis" ; Times: 1
+	Query: "lake scugog" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Guerrero&#34; country:&#34;Mexico&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:naja genus:naja" ; Times: 1
+	Query: "distance(location,geopoint(44.9725155310001,-72.6967921945))&lt;41043" ; Times: 3
+	Query: "xenopeltis unicolor" ; Times: 1
+	Query: "distance(location,geopoint(45.004155559357,-72.6720390447798))&lt;38772" ; Times: 2
+	Query: "specificepithet:viridis genus:crotalus hastissue:1" ; Times: 1
+	Query: "lauraster" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "Osteocephalus taurinus mappable:1" ; Times: 1
+	Query: "catalognumber:30410" ; Times: 1
+	Query: "Micrurus circinalis" ; Times: 1
+	Query: "leiopython" ; Times: 1
+	Query: "Schismaderma carens mappable:1" ; Times: 1
+	Query: "Ambystoma mabeei North Carolina" ; Times: 1
+	Query: "hainanensis" ; Times: 1
+	Query: "class:reptilia locality:ferguson basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Micrurus mipartitus" ; Times: 2
+	Query: "arroyo family:Phyllodactylidae stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "gloydius" ; Times: 3
+	Query: "Caudata county:&#34;Putnam&#34; stateprovince:&#34;Florida&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 2
+	Query: "crotalus cerastes maricopa arizona" ; Times: 1
+	Query: "specificepithet:tessellata genus:Natrix year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "Micrurus fulvius" ; Times: 2
+	Query: "catalognumber:30409" ; Times: 1
+	Query: "Pyxicephalus adspersus mappable:1" ; Times: 1
+	Query: "Osteopilus vastus" ; Times: 3
+	Query: "Oligodon hastissue:1" ; Times: 7
+	Query: "coluber stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "arroyo family:Teiidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Naja mossambica" ; Times: 2
+	Query: "Canada Lynx" ; Times: 1
+	Query: "arroyo specificepithet:dorsalis family:Iguanidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Cerrophidion" ; Times: 1
+	Query: "thamnophis sauritus stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "bothriechis aurifer" ; Times: 2
+	Query: "specificepithet:tancitarensis genus:Crotalus" ; Times: 2
+	Query: "Amphibia county:&#34;Union&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Cerrophidion godmani" ; Times: 1
+	Query: "Bungarus ceylonicus" ; Times: 3
+	Query: "necturus punctatus" ; Times: 1
+	Query: "specificepithet:intermedia genus:siren (Scotland OR Hoke OR Richmond OR Robeson OR Moore)" ; Times: 1
+	Query: "22094" ; Times: 1
+	Query: "neusticurus rudis" ; Times: 1
+	Query: "specificepithet:ruber genus:crotalus hastissue:1" ; Times: 1
+	Query: "specificepithet:cocincinus genus:Physignathus mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 2
+	Query: "specificepithet:scutulatus genus:crotalus hastissue:1" ; Times: 3
+	Query: "Ambystoma mabeei South Carolina" ; Times: 1
+	Query: "genus:Crotalus recordnumber:5626" ; Times: 1
+	Query: "Naja oxiana" ; Times: 1
+	Query: "specificepithet:reynoldsi genus:neoseps" ; Times: 1
+	Query: "sphaerodactylus glaucus" ; Times: 1
+	Query: "class:Amphibia country:&#34;Bolivia&#34; year &gt;= 1977 year &lt;= 2017 mappable:1" ; Times: 1
+	Query: "specificepithet:lepidus genus:crotalus hastissue:1" ; Times: 1
+	Query: "specificepithet:cocincinus genus:Physignathus  mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 1
+	Query: "Tylototriton" ; Times: 1
+	Query: "arroyo family:Anguidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:enyo genus:crotalus hastissue:1" ; Times: 1
+	Query: "genus:Megophrys hastissue:1" ; Times: 1
+	Query: "genus:micrurus county:&#34;miami-dade&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Sauromalus ater vntype:specimen hastissue:1" ; Times: 1
+	Query: "44483" ; Times: 1
+	Query: "ROM 21604" ; Times: 1
+	Query: "moose animal" ; Times: 1
+	Query: "Synapturanus" ; Times: 3
+	Query: "Stenorrhina degenhardtii" ; Times: 1
+	Query: "liopeltis" ; Times: 3
+	Query: "genus=Sphenodon hastissue=1" ; Times: 2
+	Query: "Naja melanoleuca" ; Times: 4
+	Query: "34420" ; Times: 1
+	Query: "19598" ; Times: 1
+	Query: "specificepithet:atra genus:naja" ; Times: 1
+	Query: "specificepithet:garnoti genus:Hemidactylus county:&#34;Brevard&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "catalognumber:30411" ; Times: 1
+	Query: "41234" ; Times: 1
+	Query: "crotalus stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:fulvius genus:Micrurus stateprovince:&#34;Florida&#34; country:&#34;United States&#34; month &gt;= 8 month &lt;= 11" ; Times: 1
+	Query: "pseudocalotes" ; Times: 1
+	Query: "Lampropeltis triangulum amaura" ; Times: 2
+	Query: "Lampropeltis getulus Mexico" ; Times: 1
+	Query: "Phyllodytes luteolus mappable:1" ; Times: 1
+	Query: "amphibians minnesota" ; Times: 1
+	Query: "Siren county:&#34;Putnam&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "family:Phyllodactylidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Heleophryne" ; Times: 1
+	Query: "specificepithet:durissus genus:crotalus hastissue:1" ; Times: 4
+	Query: "Kinosternon leucostomum" ; Times: 1
+	Query: "genus:Crotalus catalognumber:42406" ; Times: 2
+	Query: "DRYMARCHON couperi" ; Times: 1
+	Query: "Raorchestes vntype:specimen mappable:1" ; Times: 1
+	Query: "specificepithet:transversus genus:crotalus hastissue:1" ; Times: 2
+	Query: "Anotheca spinosa mappable:1" ; Times: 8
+	Query: "specificepithet:grammicus genus:Sceloporus mappable:1" ; Times: 6
+	Query: "specificepithet:triseriatus genus:crotalus hastissue:1" ; Times: 2
+	Query: "Micrurus psyches" ; Times: 2
+	Query: "locality:Hudson River" ; Times: 1
+	Query: "class:reptilia locality:angel de la guarda basisofrecord:PreservedSpecimen" ; Times: 6
+	Query: "32745" ; Times: 1
+	Query: "Coniophanes piceivittis" ; Times: 1
+	Query: "Stefania scalae mappable:1" ; Times: 1
+	Query: "Sinomicrurus macclellandi" ; Times: 2
+	Query: "coleonyx switaki" ; Times: 1
+	Query: "Scutiger boulengeri mappable:1" ; Times: 1
+	Query: "genus:crotalus stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Canadian lynx" ; Times: 1
+	Query: "specificepithet:undulatus genus:sceloporus stateprovince:&#34;Durango&#34;" ; Times: 3
+	Query: "ungaliophis" ; Times: 1
+	Query: "ophiodes" ; Times: 1
+	Query: "catalognumber:39249" ; Times: 2
+	Query: "genus:Hypsiboas specificepithet:geographicus" ; Times: 3
+	Query: "Crotalus tlaloci" ; Times: 1
+	Query: "specificepithet:pusillus genus:crotalus hastissue:1" ; Times: 1
+	Query: "16622" ; Times: 1
+	Query: "gbifdatasetid:cd875b5a-b3fe-48f2-94c7-371cab1431f3" ; Times: 6
+	Query: "specificepithet:lepidus genus:Crotalus" ; Times: 2
+	Query: "specificepithet:transversus genus:Crotalus" ; Times: 2
+	Query: "class:Reptilia country:&#34;Bolivia&#34; basisofrecord:PreservedSpecimen mappable:1" ; Times: 1
+	Query: "specificepithet:lateralis genus:Megophrys hastissue:1" ; Times: 1
+	Query: "Crotalus pricei stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "22704" ; Times: 1
+	Query: "specificepithet:polystictus genus:Crotalus mappable:1 hastissue:1" ; Times: 1
+	Query: "37061" ; Times: 1
+	Query: "specificepithet:willardi genus:crotalus hastissue:1" ; Times: 1
+	Query: "Bothriechis aurifer" ; Times: 2
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "32738" ; Times: 1
+	Query: "crotalus polystictus" ; Times: 1
+	Query: "catalognumber:9995" ; Times: 1
+	Query: "distance(location,geopoint(44.9926500945,-72.6738853945))&lt;38731" ; Times: 2
+	Query: "distance(location,geopoint(44.9984028269285,-72.6710200295))&lt;38736" ; Times: 2
+	Query: "specificepithet:tancitarensis genus:crotalus hastissue:1" ; Times: 2
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "specificepithet:catalinensis genus:crotalus hastissue:1" ; Times: 2
+	Query: "specificepithet:maculatus genus:Draco" ; Times: 1
+	Query: "reptiles nazas" ; Times: 2
+	Query: "micrurus fulvius" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 3
+	Query: "29809" ; Times: 1
+	Query: "genus:Hypsiboas specificepithet:calcaratus" ; Times: 1
+	Query: "specificepithet:intermedius genus:crotalus hastissue:1" ; Times: 1
+	Query: "genus:Regina stateprovince:&#34;Illinois&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 61 (out of 674 download events in this period)
+Total number of records downloaded: 2947
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 44
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: China ; Times: 4
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-05 ; Times: 1
+	Date: 2017-12-27 ; Times: 1
+	Date: 2017-12-26 ; Times: 1
+	Date: 2017-12-24 ; Times: 3
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-20 ; Times: 12
+	Date: 2017-12-16 ; Times: 1
+	Date: 2017-12-04 ; Times: 4
+	Date: 2017-12-14 ; Times: 1
+	Date: 2017-12-06 ; Times: 3
+	Date: 2017-12-01 ; Times: 4
+	Date: 2017-12-13 ; Times: 15
+	Date: 2017-12-03 ; Times: 3
+	Date: 2017-12-30 ; Times: 1
+	Date: 2017-12-12 ; Times: 5
+	Date: 2017-12-09 ; Times: 1
+	Date: 2017-12-08 ; Times: 2
+	Date: 2017-12-18 ; Times: 1
+	Date: 2017-12-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Viperidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "vntype:specimen class:Amphibia country:&#34;Bolivia&#34; mappable:1" ; Times: 1
+	Query: "eumeces inexpectatus" ; Times: 1
+	Query: "ophiodes" ; Times: 1
+	Query: "vntype:specimen specificepithet:cognatus genus:Anaxyrus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "family:Anguidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "leiopython" ; Times: 1
+	Query: "family:Scincidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "reptilia quintana roo" ; Times: 1
+	Query: "Calotes versicolor" ; Times: 2
+	Query: "creek family:Scincidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Amphibia country:&#34;Bolivia&#34; year &gt;= 1979 year &lt;= 2018 mappable:1" ; Times: 3
+	Query: "phrynosoma mcallii" ; Times: 1
+	Query: "specificepithet:lateralis genus:Megophrys hastissue:1" ; Times: 1
+	Query: "family:Iguanidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Crotalus oreganus" ; Times: 1
+	Query: "preparations:egg" ; Times: 1
+	Query: "Micrurus mipartitus" ; Times: 1
+	Query: "vntype:specimen class:Reptilia country:&#34;Bolivia&#34; mappable:1" ; Times: 3
+	Query: "Sauromalus ater vntype:specimen hastissue:1" ; Times: 1
+	Query: "class:Reptilia country:&#34;Bolivia&#34; basisofrecord:PreservedSpecimen mappable:1" ; Times: 1
+	Query: "Naja naja" ; Times: 1
+	Query: "genus:Naja" ; Times: 1
+	Query: "class:Amphibia country:&#34;Bolivia&#34; mappable:1" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "Charina trivirgata" ; Times: 1
+	Query: "class:Amphibia country:&#34;Bolivia&#34; year &gt;= 1979 year &lt;= 2018 basisofrecord:PreservedSpecimen mappable:1" ; Times: 1
+	Query: "Acanthodactylus tristrami" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "family:Phyllodactylidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Urosaurus graciosus" ; Times: 1
+	Query: "specificepithet:muhlenbergii genus:Clemmys" ; Times: 1
+	Query: "Anaxyrus compactilis" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Anolis tropidonotus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "cnemidophorus" ; Times: 1
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "Aspidoscelis" ; Times: 1
+	Query: "specificepithet:maculatus genus:Draco" ; Times: 1
+	Query: "Crotaphytus bicinctores" ; Times: 1
+	Query: "Micrurus psyches" ; Times: 2
+	Query: "Bungarus ceylonicus" ; Times: 1
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:reptilia locality:angel de la guarda basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "class:Amphibia country:&#34;Bolivia&#34; year &lt;= 1978 mappable:1" ; Times: 1
+	Query: "class:Amphibia country:&#34;Bolivia&#34; basisofrecord:PreservedSpecimen mappable:1" ; Times: 1
+	Query: "family:Teiidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 2
+	Query: "anolis sericeus" ; Times: 1
+
+
+End of report.
