@@ -1,0 +1,482 @@
+Report for Institution Code ROM, Resource herps
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 456
+Number of records retrieved in searches: 5006
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: Brazil ; Times: 3
+	Country: Italy ; Times: 1
+	Country: France ; Times: 11
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Norway ; Times: 1
+	Country: Israel ; Times: 3
+	Country: Australia ; Times: 28
+	Country: Singapore ; Times: 4
+	Country: Germany ; Times: 4
+	Country: Chile ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: United States ; Times: 337
+	Country: Russia ; Times: 2
+	Country: Samoa ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 27
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 10
+	Country: Colombia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 5
+	Date: 2018-04-28 ; Times: 3
+	Date: 2018-04-23 ; Times: 11
+	Date: 2018-04-22 ; Times: 13
+	Date: 2018-04-21 ; Times: 24
+	Date: 2018-04-20 ; Times: 12
+	Date: 2018-04-27 ; Times: 25
+	Date: 2018-04-26 ; Times: 25
+	Date: 2018-04-25 ; Times: 7
+	Date: 2018-04-24 ; Times: 22
+	Date: 2018-04-01 ; Times: 8
+	Date: 2018-04-03 ; Times: 6
+	Date: 2018-04-02 ; Times: 10
+	Date: 2018-04-05 ; Times: 16
+	Date: 2018-04-04 ; Times: 9
+	Date: 2018-04-07 ; Times: 2
+	Date: 2018-04-06 ; Times: 4
+	Date: 2018-04-09 ; Times: 14
+	Date: 2018-04-08 ; Times: 1
+	Date: 2018-04-16 ; Times: 15
+	Date: 2018-04-12 ; Times: 15
+	Date: 2018-04-13 ; Times: 29
+	Date: 2018-04-10 ; Times: 15
+	Date: 2018-04-11 ; Times: 12
+	Date: 2018-04-30 ; Times: 2
+	Date: 2018-04-17 ; Times: 73
+	Date: 2018-04-14 ; Times: 15
+	Date: 2018-04-15 ; Times: 4
+	Date: 2018-04-18 ; Times: 45
+	Date: 2018-04-19 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "Stenorrhina degenhardtii" ; Times: 1
+	Query: "Varanus gouldii hastissue:1" ; Times: 1
+	Query: "26781" ; Times: 2
+	Query: "Bothriechis" ; Times: 1
+	Query: "specificepithet:galeatus genus:Ingerophrynus" ; Times: 1
+	Query: "Caudata county:&#34;Columbia&#34; stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Podocnemis vogli" ; Times: 1
+	Query: "Ameerega trivittata" ; Times: 1
+	Query: "A-31936" ; Times: 1
+	Query: "Lithobates berlandieri vntype:specimen stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "amethistina" ; Times: 4
+	Query: "Lialis burtonis hastissue:1" ; Times: 1
+	Query: "specificepithet:jaculus genus:eryx hastissue:1" ; Times: 1
+	Query: "telescopus fallax" ; Times: 1
+	Query: "ptychozoon lionotum" ; Times: 20
+	Query: "genus:Japalura hastissue:1" ; Times: 3
+	Query: "specificepithet:enyo genus:Crotalus" ; Times: 2
+	Query: "genus:drymobius sex:male OR female" ; Times: 1
+	Query: "specificepithet:intermedia genus:siren stateprovince:&#34;north carolina&#34; (&#34;scotland&#34; OR &#34;richmond&#34; OR &#34;hoke&#34; OR &#34;moore&#34; OR &#34;robeson&#34;) mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:flavomarginatus genus:Gopherus institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "genus:Petrosaurus sex:male OR female" ; Times: 1
+	Query: "genus:Anguis year &gt;= 1980 hastissue:1" ; Times: 2
+	Query: "KUNHM 19122" ; Times: 1
+	Query: "genus:Ameiva country:&#34;Peru&#34;" ; Times: 1
+	Query: "Phyllodactylidae hastissue:1 year &gt;=2005" ; Times: 1
+	Query: "29110" ; Times: 1
+	Query: "specificepithet:manni genus:Amphisbaena" ; Times: 1
+	Query: "oreophrynella" ; Times: 1
+	Query: "genus:Duttaphrynus hastissue:1" ; Times: 1
+	Query: "vntype:specimen class:Amphibia stateprovince:&#34;Cauca&#34; country:&#34;Colombia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Micrurus dissoleucus" ; Times: 1
+	Query: "specificepithet:texanum genus:Ambystoma stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "Brook trout" ; Times: 2
+	Query: "specificepithet:ravus genus:crotalus" ; Times: 2
+	Query: "specificepithet:Ravus genus:Crotalus stateprovince:&#34;Puebla&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:flavomarginatus genus:Gopherus hastissue:1" ; Times: 1
+	Query: "&#34;necturus punctatus&#34;" ; Times: 1
+	Query: "Tropiduridae hastissue:1 year &gt;=2000" ; Times: 1
+	Query: "Naultinus" ; Times: 1
+	Query: "36218" ; Times: 1
+	Query: "specificepithet:pricei genus:Crotalus stateprovince:&#34;nuevo leon&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:telescopus year &gt;= 1980 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "genus:anguis year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "family:Viperidae stateprovince:&#34;Puebla&#34;" ; Times: 1
+	Query: "gonydactylus" ; Times: 1
+	Query: "29688" ; Times: 1
+	Query: "Latastia vntype:specimen hastissue:1" ; Times: 1
+	Query: "genus:eryx hastissue:1" ; Times: 2
+	Query: "rhinella marina" ; Times: 1
+	Query: "genus:telescopus hastissue:1" ; Times: 1
+	Query: "specificepithet:intermedia genus:siren (&#34;scotland&#34; OR &#34;richmond&#34; OR &#34;hoke&#34; OR &#34;moore&#34; OR &#34;robeson&#34;)" ; Times: 1
+	Query: "cnemaspis" ; Times: 1
+	Query: "genus:amietophrynus hastissue:1" ; Times: 1
+	Query: "specificepithet:mediolineata genus:Kaloula" ; Times: 1
+	Query: "Ambystoma distance(location,geopoint(49.196064000723794,-122.728271484375))&lt;100000" ; Times: 1
+	Query: "genus:bothriechis" ; Times: 1
+	Query: "genus:Natrix institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "specificepithet:vestigium genus:Crotaphytus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Amphibia county:&#34;Harris&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "plethodon vandykei" ; Times: 2
+	Query: "genus:rhinella hastissue:1" ; Times: 1
+	Query: "Ptychozoon trinotaterra" ; Times: 2
+	Query: "specificepithet:komodoensis genus:Varanus preparations:skeleton" ; Times: 1
+	Query: "melanosuchus niger" ; Times: 35
+	Query: "specificepithet:superciliaris preparations:tissue order:anura" ; Times: 1
+	Query: "specificepithet:nummifer genus:coluber year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "genus:anguis continent:Asia year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "specificepithet:tessellata genus:Natrix hastissue:1" ; Times: 2
+	Query: "Micrurus mipartitus" ; Times: 1
+	Query: "genus:sistrurus sex:male OR female" ; Times: 1
+	Query: "specificepithet:triseriatus genus:crotalus" ; Times: 3
+	Query: "specificepithet:intermedius genus:crotalus" ; Times: 1
+	Query: "spea hammondi" ; Times: 2
+	Query: "Cerastes vipera" ; Times: 1
+	Query: "Lycodon hastissue:1 year &gt;= 2005" ; Times: 1
+	Query: "genus:Ophisaurus continent:asia year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "specificepithet:tessellata genus:Natrix year &gt;= 1980 hastissue:1" ; Times: 4
+	Query: "Caiman yacare" ; Times: 25
+	Query: "liopeltis calamaria" ; Times: 1
+	Query: "genus:Naultinus hastissue:1" ; Times: 2
+	Query: "specificepithet:hemiophrys" ; Times: 2
+	Query: "sator skeleton" ; Times: 6
+	Query: "hemiophrys" ; Times: 1
+	Query: "class:Reptilia distance(location,geopoint(18.419684546193967,-97.76458740234375))&lt;39300" ; Times: 1
+	Query: "specificepithet:najadum genus:coluber year &gt;= 1980 hastissue:1" ; Times: 2
+	Query: "Ptychozoon lionotum" ; Times: 10
+	Query: "dubium" ; Times: 1
+	Query: "specificepithet:natrix genus:Natrix hastissue:1" ; Times: 2
+	Query: "genus:Riama " ; Times: 1
+	Query: "Lithobates catesbeianus hastissue:1" ; Times: 1
+	Query: "san joaquin crotalus" ; Times: 1
+	Query: "plethodon vandykei stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "genus:Lerista hastissue:1" ; Times: 5
+	Query: "ambystoma texanum" ; Times: 2
+	Query: "34929" ; Times: 2
+	Query: "crotalus lepidus stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "specificepithet:transversus genus:crotalus" ; Times: 2
+	Query: "specificepithet:vandykei genus:plethodon" ; Times: 1
+	Query: "Mabuya nigropunctata" ; Times: 2
+	Query: "13989" ; Times: 1
+	Query: "brook trout" ; Times: 4
+	Query: "genus:chrysemys sex:male OR female" ; Times: 2
+	Query: "Typhlops hastissue:1" ; Times: 1
+	Query: "urosaurus nigricaudus" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "epictia" ; Times: 1
+	Query: "Japalura" ; Times: 1
+	Query: "specificepithet:cherriei genus:scincella" ; Times: 1
+	Query: "hydrophis ornatus" ; Times: 5
+	Query: "specificepithet:pusillus genus:crotalus" ; Times: 1
+	Query: "crotalus pricei stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "specificepithet:natrix genus:Natrix year &gt;= 1980 hastissue:1" ; Times: 3
+	Query: "specificepithet:durissus genus:Crotalus country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:tuberculosus genus:phyllodactylus country:&#34;mexico&#34; hastissue:1" ; Times: 1
+	Query: "genus:Plica hastissue:1" ; Times: 1
+	Query: "genus: Typhlops hastissue:1" ; Times: 2
+	Query: "specificepithet:fulvius genus:micrurus" ; Times: 2
+	Query: "genus:Phyllodactylus sex:male OR female" ; Times: 1
+	Query: "specificepithet:aquilus genus:crotalus" ; Times: 1
+	Query: "Sceloporus licki" ; Times: 1
+	Query: "genus:Oplurus hastissue:1" ; Times: 1
+	Query: "specificepithet:calyptratus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Natrix year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "genus: Cylindrophis hastissue:1" ; Times: 1
+	Query: "specificepithet:tortugensis genus:crotalus" ; Times: 1
+	Query: "genus:coleonyx county:&#34;Imperial&#34; month &gt;= 4 month &lt;= 4" ; Times: 1
+	Query: "Pseudocalotes" ; Times: 1
+	Query: "petrosaurus thalassinus" ; Times: 1
+	Query: "Opacum specificepithet:Opacum stateprovince:&#34;Ohio&#34;" ; Times: 2
+	Query: "liopeltis" ; Times: 1
+	Query: "specificepithet:mipartitus genus:micrurus" ; Times: 1
+	Query: "genus:Lacerta hastissue:1" ; Times: 2
+	Query: "genus:Uma hastissue:1" ; Times: 2
+	Query: "genus:bothriechis country:&#34;honduras&#34;" ; Times: 5
+	Query: "Rhabdophis chrysargos" ; Times: 3
+	Query: "genus:Lygophis" ; Times: 1
+	Query: "Cuora amboinensis" ; Times: 1
+	Query: "bothrops asper" ; Times: 2
+	Query: "specificepithet:rosaliae genus:Bogertophis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Bothriechis marchi" ; Times: 1
+	Query: "specificepithet:switaki genus:Coleonyx stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:fallax genus:telescopus hastissue:1" ; Times: 2
+	Query: "35872" ; Times: 1
+	Query: "viridis arizona" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus stateprovince:&#34;Sonora&#34;" ; Times: 1
+	Query: "TNHC Herpetology" ; Times: 2
+	Query: "genus:Microhyla specificepithet:fissipes" ; Times: 1
+	Query: "specificepithet:mabeei genus:ambystoma stateprovince:&#34;north carolina&#34; (&#34;scotland&#34; OR &#34;richmond&#34; OR &#34;hoke&#34; OR &#34;moore&#34; OR &#34;robeson&#34;)" ; Times: 1
+	Query: "genus:anaxyrus hastissue:1" ; Times: 2
+	Query: "Takydromus vntype:specimen hastissue:1" ; Times: 1
+	Query: "genus:Gehyra hastissue:1" ; Times: 1
+	Query: "specificepithet:catalinensis genus:crotalus" ; Times: 1
+	Query: "genus:Agalychnis specificepithet:callidryas" ; Times: 5
+	Query: "genus:Xantusia hastissue:1" ; Times: 4
+	Query: "genus:Ophisaurus continent:Asia year &gt;= 1980 hastissue:1" ; Times: 2
+	Query: "genus:Pareas hastissue:1" ; Times: 1
+	Query: "canada lynx mappable:1" ; Times: 1
+	Query: "genus:emydoidea sex:male OR female" ; Times: 1
+	Query: "bitis gabonica" ; Times: 1
+	Query: "genus:Chilomeniscus sex:male OR female" ; Times: 1
+	Query: "uromastyx aegyptia" ; Times: 4
+	Query: "Rhaebo nasicus" ; Times: 1
+	Query: "uma exsul" ; Times: 2
+	Query: "Hypopachus variolosus" ; Times: 1
+	Query: "Spea bombifrons" ; Times: 1
+	Query: "Pelodiscus sinensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:graciosus genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 3
+	Query: "specificepithet:notata genus:Uma institutioncode:ROM" ; Times: 1
+	Query: "Cophotis" ; Times: 2
+	Query: "genus:Ameiva stateprovince:&#34;Huanuco&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "catalognumber:42339" ; Times: 1
+	Query: "specificepithet:transversus genus:crotalus stateprovince:&#34;morelos&#34;" ; Times: 1
+	Query: "specificepithet:vandykei genus:Plethodon county:&#34;pierce&#34; stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Coleonyx reticulatus" ; Times: 1
+	Query: "osoyoos" ; Times: 3
+	Query: "genus:Cerberus hastissue:1" ; Times: 1
+	Query: "genus:rhaebo hastissue:1" ; Times: 1
+	Query: "Ovophis tonkinensis" ; Times: 1
+	Query: "class:Reptilia county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "micrurus circinalis" ; Times: 3
+	Query: "specificepithet:tuberculosus genus:phyllodactylus country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:versicolor genus:hyla stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "Crandon Park Zoo" ; Times: 2
+	Query: "46441" ; Times: 1
+	Query: "MVZ 5658" ; Times: 2
+	Query: "genus:Ingerophrynus hastissue:1" ; Times: 2
+	Query: "specificepithet:liberiensis hastissue:1" ; Times: 2
+	Query: "cyclemys dentata" ; Times: 1
+	Query: "Eremias vntype:specimen hastissue:1" ; Times: 2
+	Query: "coleonyx reticulatus" ; Times: 1
+	Query: "Heloderma hastissue:1" ; Times: 1
+	Query: "genus:eirenis year &gt;= 1980 hastissue:1" ; Times: 3
+	Query: "parapelophryne" ; Times: 1
+	Query: "specificepithet:viridis hastissue:1" ; Times: 1
+	Query: "specificepithet:alterna genus:Lampropeltis" ; Times: 1
+	Query: "dendropsophus labialis" ; Times: 1
+	Query: "crotalus intermedius" ; Times: 2
+	Query: "rhacophorus institutioncode:ROM hastissue:1" ; Times: 2
+	Query: "ptychozoon trinotaterra" ; Times: 1
+	Query: "genus:Chamaeleo preparations:skeleton" ; Times: 4
+	Query: "specificepithet:pricei genus:Crotalus stateprovince:&#34;tamaulipas&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "10760" ; Times: 1
+	Query: "VIRUS" ; Times: 1
+	Query: "31224" ; Times: 1
+	Query: "genus:cnemaspis hastissue:1" ; Times: 3
+	Query: "genus:Gallotia hastissue:1" ; Times: 2
+	Query: "Kalophrynus subterrestris" ; Times: 1
+	Query: "Gallotia hastissue:1" ; Times: 1
+	Query: "shedaoensis" ; Times: 1
+	Query: "specificepithet: fulvius genus:micrurus" ; Times: 1
+	Query: "family:Phyllodactylidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "specificepithet:polystictus genus:crotalus" ; Times: 1
+	Query: "ptychozoon kuhli" ; Times: 1
+	Query: "specificepithet:schmidti genus:coluber year &gt;= 1980 hastissue:1" ; Times: 2
+	Query: "Chelonoidis carbonarius" ; Times: 1
+	Query: "specificepithet:switaki genus:Coleonyx stateprovince:&#34;California&#34; country:&#34;United states&#34;" ; Times: 1
+	Query: "Philodryas patagoniensis country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "family:Iguanidae order:Squamata class:Reptilia institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:nummifer genus:coluber" ; Times: 1
+	Query: "specificepithet:palaichthus genus:Hemidactylus hastissue:1" ; Times: 1
+	Query: "county:&#34;St. James&#34; stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Necturus punctatus" ; Times: 5
+	Query: "neusticurus rudis" ; Times: 7
+	Query: "family:Viperidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "genus:telescopus year &gt;= 1980 hastissue:1" ; Times: 4
+	Query: "Varanus hastissue:1 year &gt;= 2005" ; Times: 1
+	Query: "specificepithet:ravergieri genus:coluber year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "genus:Ophisaurus year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "Pristimantis year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "crotalus willardi willardi" ; Times: 2
+	Query: "specificepithet:calligaster genus:Lampropeltis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "crotalus tigris stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Crotaphytus vestigium" ; Times: 2
+	Query: "specificepithet:vipera genus:cerastes" ; Times: 1
+	Query: "specificepithet:picta genus:Kaloula country:&#34;Philippines&#34;" ; Times: 1
+	Query: "19122" ; Times: 1
+	Query: "Phrynopus" ; Times: 1
+	Query: "psammophis aegyptius" ; Times: 3
+	Query: "genus:Theloderma specificepithet:asperum" ; Times: 1
+	Query: "sator angustus skeleton" ; Times: 5
+	Query: "Cyclemys dentata" ; Times: 1
+	Query: "Varanus niloticus hastissue:1" ; Times: 1
+	Query: "genus:eryx year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "Crotalus pricei Arizona" ; Times: 1
+	Query: "specificepithet:unicolor genus:crotalus" ; Times: 2
+	Query: "genus:Urosaurus sex:male OR female" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 136 (out of 1359 download events in this period)
+Total number of records downloaded: 4136
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 112
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 6
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 2
+	Date: 2018-04-28 ; Times: 2
+	Date: 2018-04-23 ; Times: 18
+	Date: 2018-04-22 ; Times: 15
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 19
+	Date: 2018-04-27 ; Times: 2
+	Date: 2018-04-26 ; Times: 4
+	Date: 2018-04-25 ; Times: 3
+	Date: 2018-04-24 ; Times: 1
+	Date: 2018-04-01 ; Times: 2
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-05 ; Times: 3
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-06 ; Times: 2
+	Date: 2018-04-09 ; Times: 6
+	Date: 2018-04-12 ; Times: 12
+	Date: 2018-04-13 ; Times: 3
+	Date: 2018-04-10 ; Times: 11
+	Date: 2018-04-16 ; Times: 4
+	Date: 2018-04-17 ; Times: 7
+	Date: 2018-04-15 ; Times: 5
+	Date: 2018-04-18 ; Times: 2
+	Date: 2018-04-19 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "heloderma" ; Times: 2
+	Query: "Reptilia Zacatecas" ; Times: 2
+	Query: "Anaxyrus punctatus" ; Times: 1
+	Query: "genus:pituophis sex:male OR female" ; Times: 1
+	Query: "genus:Trimorphodon sex:male OR female" ; Times: 1
+	Query: "genus:Crotaphytus sex:Male OR Female" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "genus:crotalus sex:male OR female" ; Times: 1
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "Lithobates berlandieri vntype:specimen stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Viperidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "specificepithet:longicauda genus:Eurycea stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Pseudacris streckeri" ; Times: 1
+	Query: "genus:Salvadora sex:male OR female" ; Times: 1
+	Query: "genus:Ophisaurus sex:male OR female" ; Times: 1
+	Query: "Hypopachus variolosus" ; Times: 1
+	Query: "Micrurus dissoleucus" ; Times: 1
+	Query: "Anaxyrus speciosus" ; Times: 1
+	Query: "vntype:specimen genus:Anolis hastissue:1" ; Times: 1
+	Query: "incilius valliceps" ; Times: 2
+	Query: "genus:Hypsiglena sex:male OR female" ; Times: 1
+	Query: "genus:Pantherophis sex:male OR female" ; Times: 2
+	Query: "genus:Lampropeltis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:anniella stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Phrynosoma sex:Male OR Female" ; Times: 1
+	Query: "genus:thamnophis sex:male OR female" ; Times: 1
+	Query: "Sceloporus licki" ; Times: 1
+	Query: "class:Amphibia county:&#34;Harris&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:mabeei genus:ambystoma stateprovince:&#34;north carolina&#34; (&#34;scotland&#34; OR &#34;richmond&#34; OR &#34;hoke&#34; OR &#34;moore&#34; OR &#34;robeson&#34;)" ; Times: 1
+	Query: "genus:Coleonyx sex:male OR female" ; Times: 2
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "genus:Rhinocheilus sex:male OR female" ; Times: 1
+	Query: "genus:sistrurus sex:male OR female" ; Times: 1
+	Query: "family:Scincidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "spea hammondi" ; Times: 1
+	Query: "genus:Trachemys sex:male OR female" ; Times: 1
+	Query: "genus:Graptemys sex:male OR female" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "Eleutherodactylus coqui" ; Times: 1
+	Query: "family:Xantusiidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "specificepithet:opacum genus:ambystoma stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Gambelia sex:male OR female" ; Times: 1
+	Query: "family:Viperidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "genus:Apalone sex:male OR female" ; Times: 1
+	Query: "genus:Phyllorhynchus sex:male OR female" ; Times: 2
+	Query: "amethistina" ; Times: 1
+	Query: "genus:Uta sex:male OR female" ; Times: 1
+	Query: "Osteopilus septentrionalis" ; Times: 1
+	Query: "uromastyx" ; Times: 1
+	Query: "plethodon vandykei stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "Acris crepitans" ; Times: 1
+	Query: "country:&#34;brazil&#34;" ; Times: 1
+	Query: "specificepithet:vandykei genus:plethodon" ; Times: 1
+	Query: "genus:plestiodon sex:male OR female" ; Times: 1
+	Query: "family:Iguanidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "genus:Dipsosaurus sex:male OR female" ; Times: 2
+	Query: "anotheca spinosa" ; Times: 1
+	Query: "genus:Heterodon sex:Male OR Female" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "distance(location,geopoint(18.02125,-67.0769))&lt;50000" ; Times: 1
+	Query: "genus:Phyllodactylus sex:male OR female" ; Times: 1
+	Query: "genus:lampropeltis sex:male OR female" ; Times: 1
+	Query: "Mesalina guttulata" ; Times: 1
+	Query: "family:Teiidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "genus:xantusia sex:male OR female" ; Times: 1
+	Query: "genus:Kinosternon sex:male OR female" ; Times: 1
+	Query: "petrosaurus thalassinus" ; Times: 1
+	Query: "genus:Callisaurus sex:male OR female" ; Times: 3
+	Query: "genus:chrysemys sex:male OR female" ; Times: 2
+	Query: "specificepithet:adamanteus genus:Crotalus" ; Times: 1
+	Query: "Hyla chrysoscelis" ; Times: 1
+	Query: "genus:Lampropeltis sex:male OR female" ; Times: 1
+	Query: "Gastrophryne carolinensis" ; Times: 2
+	Query: "bothrops asper" ; Times: 1
+	Query: "Bothriechis marchi" ; Times: 1
+	Query: "distance(location,geopoint(40.4619,-103.0293))&lt;50000" ; Times: 1
+	Query: "Cnemidophorus hyperythrus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:masticophis sex:male OR female" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "genus:anolis sex:male OR female" ; Times: 1
+	Query: "genus:clemmys sex:male OR female" ; Times: 1
+	Query: "genus:emydoidea sex:male OR female" ; Times: 1
+	Query: "vntype:specimen class:Amphibia stateprovince:&#34;Cauca&#34; country:&#34;Colombia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Spea bombifrons" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 2
+	Query: "genus:Pseudemys sex:male OR female" ; Times: 2
+	Query: "genus:Crotalus sex:Male OR Female" ; Times: 1
+	Query: "genus:gopherus sex:male OR female" ; Times: 1
+	Query: "class:Reptilia county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "genus:heloderma sex:male OR female" ; Times: 1
+	Query: "genus:storeria sex:male OR female" ; Times: 1
+	Query: "Gastrophryne olivacea" ; Times: 1
+	Query: "specificepithet:lacerata genus:Holbrookia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Chelydra sex:male OR female" ; Times: 1
+	Query: "elgaria multicarinata" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:apalone sex:male OR female" ; Times: 2
+	Query: "genus:Coluber sex:male OR female" ; Times: 1
+	Query: "genus:Chionactis sex:male OR female" ; Times: 1
+	Query: "bothrops atrox" ; Times: 2
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "genus:Anolis sex:male OR female" ; Times: 1
+	Query: "order:Squamata hastissue:1" ; Times: 1
+	Query: "family:Phyllodactylidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "distance(location,geopoint(18.11352,-66.98676))&lt;50000" ; Times: 1
+	Query: "Micrurus mipartitus" ; Times: 1
+	Query: "genus:Sceloporus sex:male OR female" ; Times: 2
+	Query: "Rhinella marina" ; Times: 2
+	Query: "distance(location,geopoint(29.67647,-82.00909))&lt;50000" ; Times: 1
+	Query: "vntype:specimen class:amphibia stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ovophis tonkinensis" ; Times: 1
+	Query: "genus:callisaurus sex:male OR female" ; Times: 1
+	Query: "specificepithet:glutinosus genus:Plethodon stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Zacatecas&#34;" ; Times: 1
+	Query: "Notophthalmus viridescens" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 1
+	Query: "Hyla squirella" ; Times: 1
+	Query: "genus:Urosaurus sex:male OR female" ; Times: 1
+
+
+End of report.
