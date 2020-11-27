@@ -1,0 +1,474 @@
+Report for Institution Code ROM, Resource herps
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 460
+Number of records retrieved in searches: 12973
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 17
+	Country: Canada ; Times: 2
+	Country: Italy ; Times: 4
+	Country: Unknown ; Times: 106
+	Country: Argentina ; Times: 18
+	Country: Ecuador ; Times: 2
+	Country: Australia ; Times: 9
+	Country: China ; Times: 6
+	Country: Thailand ; Times: 6
+	Country: Germany ; Times: 2
+	Country: Hong Kong ; Times: 3
+	Country: Spain ; Times: 1
+	Country: Philippines ; Times: 4
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 236
+	Country: Morocco ; Times: 2
+	Country: Sweden ; Times: 6
+	Country: Russia ; Times: 4
+	Country: Mexico ; Times: 14
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 11
+	Country: United Kingdom ; Times: 3
+	Country: Paraguay ; Times: 1
+	Country: Kenya ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 13
+	Date: 2019-10-08 ; Times: 5
+	Date: 2019-10-21 ; Times: 28
+	Date: 2019-10-20 ; Times: 15
+	Date: 2019-10-27 ; Times: 9
+	Date: 2019-10-26 ; Times: 3
+	Date: 2019-10-25 ; Times: 24
+	Date: 2019-10-22 ; Times: 47
+	Date: 2019-10-01 ; Times: 4
+	Date: 2019-10-03 ; Times: 56
+	Date: 2019-10-02 ; Times: 21
+	Date: 2019-10-05 ; Times: 1
+	Date: 2019-10-04 ; Times: 5
+	Date: 2019-10-07 ; Times: 10
+	Date: 2019-10-06 ; Times: 7
+	Date: 2019-10-23 ; Times: 17
+	Date: 2019-10-24 ; Times: 38
+	Date: 2019-10-29 ; Times: 11
+	Date: 2019-10-18 ; Times: 9
+	Date: 2019-10-19 ; Times: 6
+	Date: 2019-10-13 ; Times: 1
+	Date: 2019-10-10 ; Times: 9
+	Date: 2019-10-11 ; Times: 13
+	Date: 2019-10-16 ; Times: 9
+	Date: 2019-10-31 ; Times: 17
+	Date: 2019-10-14 ; Times: 4
+	Date: 2019-10-17 ; Times: 17
+	Date: 2019-10-15 ; Times: 27
+	Date: 2019-10-28 ; Times: 9
+	Date: 2019-10-30 ; Times: 25
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:viridis genus:Crotalus institutioncode:ROM" ; Times: 4
+	Query: "genus:urosaurus country:&#34;mexico&#34; hastissue:1" ; Times: 1
+	Query: "Oligodon arnensis" ; Times: 1
+	Query: "catalognumber:39862 institutioncode:ROM" ; Times: 2
+	Query: "Calyptocephalella gayi" ; Times: 1
+	Query: "catalognumber:12077" ; Times: 1
+	Query: "Adelophryne gutturosa" ; Times: 1
+	Query: "54212" ; Times: 1
+	Query: "genus:Plethodon county:&#34;ulster&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Uma scoparia county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 2019" ; Times: 2
+	Query: "specificepithet:sinuatus genus:pelusios" ; Times: 1
+	Query: "genus:Thecadactylus country:&#34;Belize&#34;" ; Times: 1
+	Query: "Dryophytes versicolor" ; Times: 1
+	Query: "catalognumber:25102 institutioncode:ROM" ; Times: 1
+	Query: "Kinosternon acutum" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus stateprovince:&#34;New Mexico&#34; hastissue:1" ; Times: 2
+	Query: "class:Reptilia locality:Catalina stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 4
+	Query: "SP 12634" ; Times: 1
+	Query: "Sylvirana guentheri" ; Times: 2
+	Query: "locality:catalina stateprovince:&#34;baja&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Astylosternus occidentalis" ; Times: 1
+	Query: "nerodia melanogaster" ; Times: 1
+	Query: "specificepithet:texanum genus:Ambystoma hastissue:1" ; Times: 1
+	Query: "Tropidophis" ; Times: 1
+	Query: "13267" ; Times: 3
+	Query: "Hyperolius chlorosteus" ; Times: 1
+	Query: "Werneria preussi" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:leucomelas" ; Times: 1
+	Query: "Ambystoma californiense 2018" ; Times: 3
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "jacobi" ; Times: 1
+	Query: "Leptopelis macrotis" ; Times: 1
+	Query: "sylvaticus Lithobates" ; Times: 8
+	Query: "Phrynobatrachus fraterculus" ; Times: 1
+	Query: "class:Reptilia locality:Catalina stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "Anaxyrus quercicus" ; Times: 1
+	Query: "specificepithet:sicula genus:podarcis continent:europe" ; Times: 1
+	Query: "Hyperolius koehleri" ; Times: 1
+	Query: "43878" ; Times: 1
+	Query: "16467" ; Times: 1
+	Query: "23763" ; Times: 1
+	Query: "Drymoluber dichrous" ; Times: 2
+	Query: "genus:Ameiva country:&#34;Jamaica&#34;" ; Times: 2
+	Query: "specificepithet:dorsalis genus:Rhinophrynus stateprovince:&#34;Chiapas&#34;" ; Times: 1
+	Query: "Chironius grandisquamis" ; Times: 1
+	Query: "19786" ; Times: 1
+	Query: "vitreorana gorzulae" ; Times: 1
+	Query: "ROM 37333" ; Times: 1
+	Query: "lithobates berlandieri" ; Times: 1
+	Query: "imantodes hastissue:1" ; Times: 1
+	Query: "specificepithet:simus genus:Heterodon stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "Ptychadena longirostris" ; Times: 1
+	Query: "50567" ; Times: 1
+	Query: "masticophis bilineatus sinaloa" ; Times: 1
+	Query: "rhinocheilus sinaloa" ; Times: 1
+	Query: "genus:Ceratophrys" ; Times: 5
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "Ambystoma californiense 2004" ; Times: 3
+	Query: "Phrynobatrachus villiersi" ; Times: 1
+	Query: "Sistrurus catenatus 1991" ; Times: 1
+	Query: "32783" ; Times: 1
+	Query: "streckeri Pseudacris" ; Times: 1
+	Query: "genus:Ecnomiohyla" ; Times: 2
+	Query: "genus:Psammophis preparations:tissue" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus hastissue:1" ; Times: 1
+	Query: "specificepithet:tropicalis genus:xenopus hastissue:1" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Franklin&#34; stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ophryophryne pachyproctus" ; Times: 1
+	Query: "sistrurus arizona" ; Times: 1
+	Query: "crotalus klauberi new mexico" ; Times: 1
+	Query: "plethodon vandykei" ; Times: 1
+	Query: "Rana japonica" ; Times: 1
+	Query: "32887" ; Times: 1
+	Query: "pseudobranchus" ; Times: 1
+	Query: "Boiga ceylonensis" ; Times: 1
+	Query: "Sistrurus catenatus 2004" ; Times: 1
+	Query: "Sistrurus catenatus 2005" ; Times: 1
+	Query: "Sistrurus catenatus 2006" ; Times: 1
+	Query: "Sistrurus catenatus 2007" ; Times: 1
+	Query: "Sistrurus catenatus 2000" ; Times: 1
+	Query: "Sistrurus catenatus 2001" ; Times: 1
+	Query: "Sistrurus catenatus 2002" ; Times: 1
+	Query: "hypsiglena torquata sinaloa" ; Times: 1
+	Query: "specificepithet:auratus genus:Phyllodytes" ; Times: 1
+	Query: "Salamandrina" ; Times: 3
+	Query: "Sistrurus catenatus 2008" ; Times: 1
+	Query: "Sistrurus catenatus 2009" ; Times: 1
+	Query: "Chiromantis vittatus" ; Times: 2
+	Query: "USNM 16774" ; Times: 1
+	Query: "crotalus basiliscus sinaloa" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus stateprovince:&#34;Alabama&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "coleonyx mexico" ; Times: 1
+	Query: "genus:Pyxicephalus specificepithet:adspersus" ; Times: 4
+	Query: "genus:Hyperolius specificepithet:koehleri" ; Times: 2
+	Query: "callisaurus sinaloa" ; Times: 3
+	Query: "Ceratophrys ornata" ; Times: 1
+	Query: "Drymarchon couperi 2018" ; Times: 1
+	Query: "specificepithet:komodoensis genus:Varanus" ; Times: 1
+	Query: "ROM 37809" ; Times: 1
+	Query: "country:&#34;Canada&#34; ((Lithobates pipiens) Canada)" ; Times: 2
+	Query: "Crotalus triseriatus triseriatus" ; Times: 1
+	Query: "catalina class:Reptilia stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "specificepithet:lepidus genus:Crotalus stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "phyllodactylus colima" ; Times: 1
+	Query: "Osteopilus vastus" ; Times: 1
+	Query: "macrodactylum Ambystoma" ; Times: 16
+	Query: "Sistrurus catenatus 2011" ; Times: 1
+	Query: "40047" ; Times: 1
+	Query: "Neoseps reynoldsi 2018" ; Times: 1
+	Query: "phyllodactylus tuberculosus sinaloa" ; Times: 2
+	Query: "specificepithet:Burtonis genus:Lialis stateprovince:&#34;Queensland&#34;" ; Times: 2
+	Query: "specificepithet:sicula genus:podarcis country:&#34;italy&#34;" ; Times: 2
+	Query: "Chiasmocleis" ; Times: 1
+	Query: "family:teiidae country:&#34;jamaica&#34;" ; Times: 2
+	Query: "specificepithet:catesbeianus institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "genus:Hydrodynastes" ; Times: 1
+	Query: "specificepithet:bombifrons stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Pelophylax nigromaculatus" ; Times: 1
+	Query: "(Lithobates pipiens) Canada country:&#34;Canada&#34;" ; Times: 8
+	Query: "Sistrurus catenatus 2018" ; Times: 1
+	Query: "Uma scoparia county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34; year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "Sistrurus catenatus 1972" ; Times: 1
+	Query: "pantherophis lindheimeri" ; Times: 1
+	Query: "Sistrurus catenatus 1977" ; Times: 1
+	Query: "hypsiboas mcz" ; Times: 1
+	Query: "lithobates aurora" ; Times: 1
+	Query: "39463" ; Times: 1
+	Query: "crotalus willardi" ; Times: 15
+	Query: "genus:Psammophis institutioncode:ROM" ; Times: 2
+	Query: "genus:Uta country:&#34;Mexico&#34; hastissue:1" ; Times: 4
+	Query: "37120" ; Times: 1
+	Query: "Draco volans" ; Times: 1
+	Query: "Sistrurus catenatus 2012" ; Times: 1
+	Query: "Phrynobatrachus alleni" ; Times: 1
+	Query: "rhaebo nasicus" ; Times: 2
+	Query: "Crotalus Tancitaro" ; Times: 1
+	Query: "Ambystoma californiense 1989" ; Times: 3
+	Query: "Sistrurus catenatus 1989" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "Sistrurus catenatus 1984" ; Times: 1
+	Query: "Sistrurus catenatus 1986" ; Times: 1
+	Query: "Elaphe quatuorlineata" ; Times: 1
+	Query: "Nephrurus asper" ; Times: 5
+	Query: "Pseudoxenodon bambusicola" ; Times: 1
+	Query: "lachesis muta" ; Times: 2
+	Query: "siren intermedia" ; Times: 1
+	Query: "elgaria multicarinata distance(location,geopoint(30.866335448643117,-115.25285160278253))&lt;100000" ; Times: 1
+	Query: "Sistrurus catenatus 2017" ; Times: 1
+	Query: "10109" ; Times: 1
+	Query: "sceloporus magister sinaloa" ; Times: 1
+	Query: "order:Squamata locality:Gainesville" ; Times: 1
+	Query: "xenopus tropicalis" ; Times: 4
+	Query: "specificepithet:sicula genus:podarcis stateprovince:&#34;tuscany&#34; country:&#34;italy&#34;" ; Times: 1
+	Query: "lithobates pipiens country:&#34;CANADA&#34;" ; Times: 2
+	Query: "Sympholis lippiens" ; Times: 2
+	Query: "Anaxyrus americanus mappable:1" ; Times: 12
+	Query: "(Lithobates pipiens) Canada" ; Times: 29
+	Query: "Varanus komodoensis" ; Times: 3
+	Query: "Pristimantis unistrigatus" ; Times: 1
+	Query: "phrynops" ; Times: 2
+	Query: "Philodryas patagoniensis" ; Times: 1
+	Query: "18509" ; Times: 1
+	Query: "yunnanensis Nanorana" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Miami&#34; stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "elgaria multicarinata distance(location,geopoint(30.886950365488037,-116.02189457153253))&lt;100000" ; Times: 1
+	Query: "Megophrys omeimontis" ; Times: 1
+	Query: "Sistrurus catenatus 1999" ; Times: 1
+	Query: "theloderma" ; Times: 1
+	Query: "44016" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 2
+	Query: "elgaria multicarinata distance(location,geopoint(30.891704169391996,-115.96146976684503))&lt;100000" ; Times: 1
+	Query: "Sistrurus catenatus 1994" ; Times: 1
+	Query: "Sistrurus catenatus 1993" ; Times: 1
+	Query: "Sistrurus catenatus 1992" ; Times: 1
+	Query: "CAI 219" ; Times: 1
+	Query: "Sistrurus catenatus 1990" ; Times: 1
+	Query: "catalognumber:28321 institutioncode:ROM" ; Times: 1
+	Query: "eryx johni" ; Times: 1
+	Query: "genus:Rhinophrynus" ; Times: 1
+	Query: "Phyllodactylus Guerrero" ; Times: 1
+	Query: "genus:Naja preparations:tissue institutioncode:ROM" ; Times: 1
+	Query: "Neoseps reynoldsi 1990" ; Times: 1
+	Query: "class:reptilia locality:catalina stateprovince:&#34;baja&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:Lithobates hastissue:1" ; Times: 1
+	Query: "Sistrurus catenatus 1974" ; Times: 1
+	Query: "specificepithet:ornatus genus:urosaurus country:&#34;mexico&#34; hastissue:1" ; Times: 1
+	Query: "genus:Norops institutioncode:ROM" ; Times: 1
+	Query: "Stefania coxi" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "Odontophrynus americanus" ; Times: 1
+	Query: "Kaloula pulchra" ; Times: 2
+	Query: "Ptychadena superciliaris" ; Times: 1
+	Query: "Massasauga" ; Times: 1
+	Query: "Hyperolius balfouri mappable:1" ; Times: 1
+	Query: "leptodactylus validus" ; Times: 2
+	Query: "catalognumber:15063 institutioncode:ROM" ; Times: 1
+	Query: "Lithobates pipiens country:&#34;Canada&#34;" ; Times: 4
+	Query: "genus:Psammophylax institutioncode:ROM" ; Times: 2
+	Query: "Sistrurus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "28676" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:mexicanum" ; Times: 1
+	Query: "Oophaga histrionica" ; Times: 1
+	Query: "Vipera latesti" ; Times: 2
+	Query: "33502" ; Times: 1
+	Query: "(Lithobates pipiens) country:&#34;canada&#34;" ; Times: 2
+	Query: "SP 13456" ; Times: 2
+	Query: "crotalus transversus" ; Times: 2
+	Query: "Sistrurus catenatus 2003" ; Times: 1
+	Query: "crotalus willardi mexico" ; Times: 3
+	Query: "catalognumber:7472 institutioncode:ROM" ; Times: 1
+	Query: "genus:Chiasmocleis" ; Times: 4
+	Query: "(Lithobates pipiens) country:&#34;Canada&#34;" ; Times: 9
+	Query: "((Lithobates pipiens) Canada)" ; Times: 4
+	Query: "Phrynobatrachus liberiensis" ; Times: 1
+	Query: "lithobates pipiens country:&#34;Canada&#34;" ; Times: 1
+	Query: "eretmochelys imbricata" ; Times: 1
+	Query: "(Lithobates pipiens) Canada Logier country:&#34;Canada&#34;" ; Times: 1
+	Query: "Ceratophrys cranwelli" ; Times: 1
+	Query: "catalognumber:31806" ; Times: 1
+	Query: "genus:Dendroaspis institutioncode:ROM" ; Times: 3
+	Query: "reptiles estado de mexico" ; Times: 1
+	Query: "Allobates trilineatus" ; Times: 1
+	Query: "crotalus tlaxcala" ; Times: 2
+	Query: "Crotalus triseriatus armstrongi" ; Times: 1
+	Query: "class:Reptilia locality:Catalina country:&#34;Mexico&#34;" ; Times: 2
+	Query: "SP 12913" ; Times: 1
+	Query: "Ceratophrys aurita" ; Times: 1
+	Query: "locality:Catalina stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Scinax squalirostris" ; Times: 2
+	Query: "19803" ; Times: 1
+	Query: "genus:Psammophis preparations:tissue institutioncode:ROM" ; Times: 1
+	Query: "crotalus lepidus sinaloa" ; Times: 1
+	Query: "genus:Hydromantes specificepithet:italicus" ; Times: 2
+	Query: "ambystoma mexicanum" ; Times: 2
+	Query: "Gopherus flavomarginatus" ; Times: 3
+	Query: "Ophiophagus hannah" ; Times: 1
+	Query: "Podarcis sicula" ; Times: 2
+	Query: "vntype:specimen specificepithet:undulatus genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "Imantodes hastissue:1" ; Times: 1
+	Query: "genus:Anolis institutioncode:ROM" ; Times: 1
+	Query: "trimeresurus albolabris" ; Times: 1
+	Query: "Theloderma corticale" ; Times: 1
+	Query: "genus:Proctoporus" ; Times: 1
+	Query: "Leptopelis occidentalis" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:cingulatum" ; Times: 1
+	Query: "ophiophagus hannah" ; Times: 1
+	Query: "genus:norops hastissue:1" ; Times: 1
+	Query: "catalognumber:16172" ; Times: 1
+	Query: "Storeria dekayi year &gt;= 2000 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:bicolor" ; Times: 1
+	Query: "32998" ; Times: 1
+	Query: "specificepithet:aspis genus:Vipera country:&#34;Italy&#34;" ; Times: 1
+	Query: "ROM 40533" ; Times: 1
+	Query: "CAI 218" ; Times: 1
+	Query: "genus:Melanophryniscus specificepithet:moreirae" ; Times: 1
+	Query: "specificepithet:ornatus genus:urosaurus hastissue:1" ; Times: 2
+	Query: "Rhaebo nasicus" ; Times: 1
+	Query: "(Lithobates pipiens) Canada vntype:specimen" ; Times: 1
+	Query: "arborea Hyla" ; Times: 2
+	Query: "Sistrurus catenatus 1978" ; Times: 1
+	Query: "family:Colubridae country:&#34;Jamaica&#34;" ; Times: 1
+	Query: "Sistrurus catenatus 2010" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus stateprovince:&#34;Alabama&#34; institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Nerodia erythrogaster Tennessee" ; Times: 6
+	Query: "17684" ; Times: 1
+	Query: "Notophthalmus meridionalis" ; Times: 2
+	Query: "specificepithet:ruber genus:scinax hastissue:1" ; Times: 1
+	Query: "hylarana baramica" ; Times: 1
+	Query: "Sistrurus catenatus 1995" ; Times: 1
+	Query: "genus:Phyllodytes specificepithet:luteolus" ; Times: 1
+	Query: "hypsiglena sinaloa" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 126 (out of 1308 download events in this period)
+Total number of records downloaded: 27662
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 2
+	Country: Saudi Arabia ; Times: 1
+	Country: Mexico ; Times: 17
+	Country: Unknown ; Times: 31
+	Country: Philippines ; Times: 4
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Rwanda ; Times: 1
+	Country: China ; Times: 13
+	Country: Hong Kong ; Times: 2
+	Country: United States ; Times: 46
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 3
+	Date: 2019-10-22 ; Times: 1
+	Date: 2019-10-21 ; Times: 10
+	Date: 2019-10-20 ; Times: 14
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-26 ; Times: 2
+	Date: 2019-10-25 ; Times: 6
+	Date: 2019-10-01 ; Times: 2
+	Date: 2019-10-03 ; Times: 18
+	Date: 2019-10-02 ; Times: 2
+	Date: 2019-10-04 ; Times: 2
+	Date: 2019-10-07 ; Times: 3
+	Date: 2019-10-06 ; Times: 2
+	Date: 2019-10-23 ; Times: 14
+	Date: 2019-10-31 ; Times: 3
+	Date: 2019-10-19 ; Times: 3
+	Date: 2019-10-16 ; Times: 2
+	Date: 2019-10-10 ; Times: 6
+	Date: 2019-10-30 ; Times: 13
+	Date: 2019-10-17 ; Times: 2
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-15 ; Times: 11
+	Date: 2019-10-28 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Phrynobatrachus alleni" ; Times: 1
+	Query: "order:Squamata basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Bufonidae vntype:specimen hastissue:1" ; Times: 3
+	Query: "sceloporus clarkii" ; Times: 4
+	Query: "(Lithobates pipiens) country:&#34;canada&#34;" ; Times: 1
+	Query: "specificepithet:guttata family:emydidae" ; Times: 1
+	Query: "Bufonidae vntype:specimen" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 9
+	Query: "genus:Chiasmocleis" ; Times: 1
+	Query: "specificepithet:catesbeianus institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "((Lithobates pipiens) Canada)" ; Times: 1
+	Query: "reptilia stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "specificepithet:sicula genus:podarcis continent:europe" ; Times: 1
+	Query: "eretmochelys imbricata" ; Times: 1
+	Query: "catalina class:reptilia stateprovince:&#34;baja&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:Ceratophrys" ; Times: 2
+	Query: "genus:Morelia hastissue:1" ; Times: 1
+	Query: "Lithobates pipiens country:&#34;Canada&#34;" ; Times: 1
+	Query: "xenopus tropicalis" ; Times: 2
+	Query: "sceloporus Clarkii" ; Times: 1
+	Query: "specificepithet:sicula genus:podarcis stateprovince:&#34;tuscany&#34; country:&#34;italy&#34;" ; Times: 1
+	Query: "Astylosternus occidentalis" ; Times: 1
+	Query: "class:Reptilia locality:Catalina stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "sphaerodactylus nicholsi" ; Times: 1
+	Query: "Sympholis lippiens" ; Times: 1
+	Query: "Ophiophagus hannah" ; Times: 1
+	Query: "testudo graeca" ; Times: 1
+	Query: "(Lithobates pipiens) Canada" ; Times: 10
+	Query: "Werneria preussi" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 1
+	Query: "specificepithet:compactilis family:Bufonidae" ; Times: 1
+	Query: "Anaxyrus fowleri" ; Times: 1
+	Query: "Leptopelis macrotis" ; Times: 1
+	Query: "Podarcis sicula" ; Times: 1
+	Query: "Phrynobatrachus fraterculus" ; Times: 2
+	Query: "vntype:specimen specificepithet:undulatus genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "Hyperolius concolor" ; Times: 2
+	Query: "gonatodes humeralis" ; Times: 1
+	Query: "genus:Anolis institutioncode:ROM" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:mexicanum" ; Times: 1
+	Query: "Hyperolius koehleri" ; Times: 2
+	Query: "Phrynobatrachus plicatus" ; Times: 1
+	Query: "Chelonoidis" ; Times: 1
+	Query: "specificepithet:contortrix genus:agkistrodon stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Leptopelis occidentalis" ; Times: 1
+	Query: "genus:Astylosternus hastissue:1" ; Times: 2
+	Query: "genus:Pleurodema" ; Times: 2
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "genus:gyrinophilus stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "SCELOPORUS CLARKII" ; Times: 3
+	Query: "Squamata country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "genus:Phyllomedusa" ; Times: 2
+	Query: "(Lithobates pipiens) Canada country:&#34;Canada&#34;" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:Lithobates hastissue:1" ; Times: 1
+	Query: "Hyperolius chlorosteus" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 4
+	Query: "(Lithobates pipiens) country:&#34;Canada&#34;" ; Times: 2
+	Query: "genus:Norops institutioncode:ROM" ; Times: 1
+	Query: "Sceloporus clarkii" ; Times: 2
+	Query: "Ptychadena longirostris" ; Times: 2
+	Query: "Phrynobatrachus liberiensis" ; Times: 2
+	Query: "genus:Anolis hastissue:1" ; Times: 1
+	Query: "Ptychadena superciliaris" ; Times: 2
+	Query: "genus:Odontophrynus" ; Times: 1
+	Query: "Lithobates Catesbeianus" ; Times: 1
+	Query: "genus:anaxyrus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "Varanus salvator" ; Times: 2
+	Query: "Phrynobatrachus villiersi" ; Times: 2
+	Query: "sceloporus torquatus" ; Times: 3
+	Query: "chamaeleo chamaeleon" ; Times: 1
+	Query: "genus:caiman hastissue:1" ; Times: 1
+	Query: "Sonora occipitalis" ; Times: 1
+	Query: "astylosternus" ; Times: 1
+	Query: "sphaerodactylus argus" ; Times: 1
+	Query: "genus:Ecnomiohyla" ; Times: 1
+	Query: "elgaria multicarinata distance(location,geopoint(30.886950365488037,-116.02189457153253))&lt;104198" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+
+
+End of report.
