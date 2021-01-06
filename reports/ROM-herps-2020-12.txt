@@ -1,0 +1,419 @@
+Report for Institution Code ROM, Resource herps
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 347
+Number of records retrieved in searches: 2845
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 3
+	Country: Italy ; Times: 1
+	Country: Unknown ; Times: 15
+	Country: Panama ; Times: 2
+	Country: France ; Times: 4
+	Country: Peru ; Times: 51
+	Country: Bolivia ; Times: 1
+	Country: Iran ; Times: 1
+	Country: China ; Times: 4
+	Country: Hong Kong ; Times: 1
+	Country: Spain ; Times: 6
+	Country: Poland ; Times: 3
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 153
+	Country: Sweden ; Times: 20
+	Country: Vietnam ; Times: 10
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 31
+	Country: Mozambique ; Times: 10
+	Country: Colombia ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 19
+	Date: 2020-12-31 ; Times: 5
+	Date: 2020-12-09 ; Times: 8
+	Date: 2020-12-08 ; Times: 12
+	Date: 2020-12-07 ; Times: 2
+	Date: 2020-12-06 ; Times: 2
+	Date: 2020-12-05 ; Times: 9
+	Date: 2020-12-04 ; Times: 22
+	Date: 2020-12-03 ; Times: 27
+	Date: 2020-12-02 ; Times: 19
+	Date: 2020-12-01 ; Times: 9
+	Date: 2020-12-25 ; Times: 2
+	Date: 2020-12-24 ; Times: 10
+	Date: 2020-12-27 ; Times: 2
+	Date: 2020-12-26 ; Times: 2
+	Date: 2020-12-21 ; Times: 11
+	Date: 2020-12-20 ; Times: 16
+	Date: 2020-12-23 ; Times: 28
+	Date: 2020-12-22 ; Times: 3
+	Date: 2020-12-29 ; Times: 28
+	Date: 2020-12-28 ; Times: 6
+	Date: 2020-12-18 ; Times: 13
+	Date: 2020-12-19 ; Times: 3
+	Date: 2020-12-10 ; Times: 19
+	Date: 2020-12-11 ; Times: 18
+	Date: 2020-12-12 ; Times: 3
+	Date: 2020-12-13 ; Times: 14
+	Date: 2020-12-14 ; Times: 14
+	Date: 2020-12-15 ; Times: 6
+	Date: 2020-12-16 ; Times: 3
+	Date: 2020-12-17 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:44169 institutioncode:ROM" ; Times: 2
+	Query: "genus:Leptodactylus specificepithet:macrosternum" ; Times: 1
+	Query: "Sacalia quadriocellata" ; Times: 1
+	Query: "genus:Barycholos" ; Times: 1
+	Query: "Aspidura" ; Times: 1
+	Query: "catalognumber:17258" ; Times: 1
+	Query: "Salamandra atra" ; Times: 1
+	Query: "mappable:1 scientificname:Dermochelys coriacea" ; Times: 2
+	Query: "Ceratophrys cornuta" ; Times: 1
+	Query: "mappable:1 scientificname:Anaxyrus woodhousei" ; Times: 1
+	Query: "Litoria aurea" ; Times: 1
+	Query: "specificepithet:melanoleuca genus:Naja basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Tropidophis" ; Times: 2
+	Query: "26573" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Miami&#34; stateprovince:&#34;Kansas&#34; year &gt;= 1880 year &lt;= 1930 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Xenopus muelleri" ; Times: 1
+	Query: "Cuora amboinensis" ; Times: 1
+	Query: "phyllodactylus tuberculosus" ; Times: 3
+	Query: "Pucallpa" ; Times: 3
+	Query: "catalognumber:35899 institutioncode:ROM" ; Times: 1
+	Query: "41264" ; Times: 1
+	Query: "Rhinella schneideri" ; Times: 1
+	Query: "specificepithet:spelea genus:Eurycea" ; Times: 1
+	Query: "gbifdatasetid:cd875b5a-b3fe-48f2-94c7-371cab1431f3" ; Times: 1
+	Query: "Leptodactylus chaquensis" ; Times: 1
+	Query: "Leptodactylus podicipinus" ; Times: 1
+	Query: "Callopistes maculatus" ; Times: 2
+	Query: "ROM 35605" ; Times: 1
+	Query: "specificepithet:hurteri family:Scaphiopodidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Elapidae institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "26360" ; Times: 1
+	Query: "lepidodactylus christiani" ; Times: 3
+	Query: "mappable:1 scientificname:Pyxicephalus adspersus" ; Times: 1
+	Query: "Pseudis paradoxa" ; Times: 1
+	Query: "order:Squamata institutioncode:ROM" ; Times: 1
+	Query: "Oligodon eberhardti" ; Times: 1
+	Query: "Sceloporus rodeo durango" ; Times: 2
+	Query: "Craugastoridae" ; Times: 2
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "Lithobates vaillanti" ; Times: 3
+	Query: "mappable:1 scientificname:Ptychadena oxyrhynchus" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Seward&#34; stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "mappable:1 scientificname:Hyperolius kivuensis" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:tigrinum stateprovince: Florida" ; Times: 1
+	Query: "Sceloporus maculosus" ; Times: 9
+	Query: "E.5616.A" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Franklin&#34; stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Geoemyda spengleri" ; Times: 1
+	Query: "catalognumber:35902 institutioncode:ROM" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "Dibamus" ; Times: 1
+	Query: "genus:Rhinophrynus specificepithet:dorsalis" ; Times: 1
+	Query: "25529" ; Times: 1
+	Query: "Cuora galbinifrons" ; Times: 1
+	Query: "lacerta agilis" ; Times: 2
+	Query: "Mauremys nigricans" ; Times: 1
+	Query: "Litoria caerulea" ; Times: 1
+	Query: "crotalus ravus" ; Times: 3
+	Query: "mappable:1 scientificname:Eretmochelys imbricata" ; Times: 2
+	Query: "25113" ; Times: 1
+	Query: "specificepithet:scutulatus genus:crotalus county:&#34;san bernardino&#34;" ; Times: 2
+	Query: "Lacerta viridis" ; Times: 1
+	Query: "30561" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "catalognumber:39677 institutioncode:ROM" ; Times: 2
+	Query: "family:hemiphractidae hastissue:1" ; Times: 2
+	Query: "family:Sirenidae order:Caudata stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "A. T. Copeland" ; Times: 1
+	Query: "Phrynobatrachus natalensis" ; Times: 1
+	Query: "spea hammondi" ; Times: 1
+	Query: "17310" ; Times: 1
+	Query: "Crotalus basiliscus" ; Times: 1
+	Query: "hemiphyllodactylus typus" ; Times: 2
+	Query: "genus:Sistrurus stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:dicamptodon county:&#34;mendocino&#34;" ; Times: 2
+	Query: "genus:Agkistrodon county:&#34;Bexar&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Necturus specificepithet:punctatus" ; Times: 1
+	Query: "carettochelys insculpta" ; Times: 1
+	Query: "specificepithet:areolatus class:Amphibia country:&#34;United States&#34;" ; Times: 1
+	Query: "Ambystoma laterale" ; Times: 1
+	Query: "genus:Paramesotriton specificepithet:deloustali" ; Times: 1
+	Query: "Theloderma gordoni" ; Times: 6
+	Query: "Osteopilus vastus" ; Times: 1
+	Query: "Uma exsul" ; Times: 3
+	Query: "Bothrops barnetti" ; Times: 41
+	Query: "specificepithet:willardi genus:Crotalus" ; Times: 1
+	Query: "Sphenodon punctatus" ; Times: 4
+	Query: "12995" ; Times: 1
+	Query: "ROM 28612" ; Times: 1
+	Query: "Kassina senegalensis" ; Times: 1
+	Query: "24209" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Miami&#34; stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Fitch Thamnophis jackson" ; Times: 1
+	Query: "genus:Necturus stateprovince:North Carolina" ; Times: 5
+	Query: "42634" ; Times: 1
+	Query: "catalognumber:40151 institutioncode:ROM" ; Times: 2
+	Query: "genus:micrurus stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "calotes versicolor" ; Times: 1
+	Query: "eublepharis angramainyu" ; Times: 1
+	Query: "27650" ; Times: 1
+	Query: "Nannophryne cophotis" ; Times: 1
+	Query: "specificepithet:striatus genus:Pseudobranchus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "christiani lepidodactylus" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Franklin&#34; stateprovince:&#34;Kansas&#34; year &gt;= 1910 year &lt;= 1939 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 2
+	Query: "41988" ; Times: 1
+	Query: "Notophthalmus viridescens Victoria" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Uma paraphygas" ; Times: 7
+	Query: "Bothrops brazili" ; Times: 3
+	Query: "coleonyx switaki" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:leucomelas" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Franklin&#34; stateprovince:&#34;Kansas&#34; year &gt;= 1900 year &lt;= 1926 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Rana specificepithet:johnsi" ; Times: 1
+	Query: "opisthotropis hastissue:1" ; Times: 1
+	Query: "scientificname:Microstoma microstoma" ; Times: 2
+	Query: "specificepithet:hortulanus genus:Corallus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Calyptocephalella specificepithet:gayi" ; Times: 1
+	Query: "genus:Diadophis class:Reptilia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Duttaphrynus melanostictus" ; Times: 1
+	Query: "Opisthotropis jacobi" ; Times: 1
+	Query: "ROM 11951" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Ambystoma specificepithet:mabeei" ; Times: 3
+	Query: "genus:Ambystoma stateprovince:South Carolina" ; Times: 2
+	Query: "Crotalus enyo" ; Times: 1
+	Query: "Hemitheconyx" ; Times: 1
+	Query: "genus:Ambystoma stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; year &gt;= 1970 year &lt;= 2020" ; Times: 2
+	Query: "genus:Lepidodactylus country:&#34;Philippines&#34;" ; Times: 1
+	Query: "ROM 28638" ; Times: 1
+	Query: "Xenopeltis unicolor" ; Times: 1
+	Query: "lacerta viridis" ; Times: 1
+	Query: "mappable:1 scientificname:Kassina senegalensis" ; Times: 1
+	Query: "opisthotropis" ; Times: 2
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Utah&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:31031 institutioncode:ROM" ; Times: 3
+	Query: "Tiliqua multifasciata" ; Times: 1
+	Query: "catalognumber:35898 institutioncode:ROM" ; Times: 1
+	Query: "36800" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 1
+	Query: "crotalus enyo" ; Times: 1
+	Query: "19907" ; Times: 1
+	Query: "25857" ; Times: 1
+	Query: "Pseudoboa neuwiedii" ; Times: 1
+	Query: "genus:Pseudobranchus specificepithet:striatus" ; Times: 2
+	Query: "catalognumber:32387 institutioncode:ROM" ; Times: 1
+	Query: "rana dalmatina" ; Times: 2
+	Query: "35966" ; Times: 1
+	Query: "Lacerta agilis" ; Times: 2
+	Query: "43687" ; Times: 1
+	Query: "Lacerta schreiberi" ; Times: 1
+	Query: "35101" ; Times: 1
+	Query: "genus:Azemiops hastissue:1" ; Times: 3
+	Query: "Heosemys grandis" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Coleonyx brevis" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;South Carolina&#34; institutioncode:ROM" ; Times: 1
+	Query: "frogs" ; Times: 1
+	Query: "Hyperolius viridiflavus" ; Times: 1
+	Query: "Rhinella spinulosa" ; Times: 2
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "ROM 39389" ; Times: 1
+	Query: "specificepithet:striatus genus:Pseudobranchus stateprovince:&#34;Florida&#34; year &gt;= 1970 year &lt;= 2020" ; Times: 3
+	Query: "naja oxiana" ; Times: 2
+	Query: "mappable:1 scientificname:Ptychadena anchietae" ; Times: 1
+	Query: "Rhinella poeppigii" ; Times: 1
+	Query: "genus:Telmatobius specificepithet:brevipes" ; Times: 2
+	Query: "Crotalus aquilus" ; Times: 1
+	Query: "Allophrynidae" ; Times: 1
+	Query: "Rhinella merianae" ; Times: 2
+	Query: "genus:Drymarchon hastissue:1" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Franklin&#34; stateprovince:&#34;Kansas&#34; year &gt;= 1920 year &lt;= 1939 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "30727" ; Times: 1
+	Query: "Calotes versicolor" ; Times: 1
+	Query: "specificepithet:Cingulatum genus:Ambystoma" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Bungarus preparations:tissue hastissue:1" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "Sacalia bealei" ; Times: 1
+	Query: "scientificname:Anolis sagrei" ; Times: 1
+	Query: "specificepithet:mabeei genus:Ambystoma stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Pseudepidalea viridis" ; Times: 2
+	Query: "christiani" ; Times: 1
+	Query: "catalognumber:43327 institutioncode:ROM" ; Times: 1
+	Query: "genus:Crotaphytus hastissue:1" ; Times: 7
+	Query: "family:Elapidae hastissue:1" ; Times: 1
+	Query: "Pelophylax esculentus" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:bicolor" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Franklin&#34; stateprovince:&#34;Kansas&#34; year &gt;= 1926 year &lt;= 1926 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Morton&#34; stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:1812 institutioncode:ROM" ; Times: 1
+	Query: "genus:Amolops specificepithet:hongkongensis" ; Times: 1
+	Query: "ROM 15084" ; Times: 2
+	Query: "scientificname:Sarda sarda" ; Times: 1
+	Query: "Heosemys depressa" ; Times: 1
+	Query: "mappable:1 scientificname:Schismaderma carens" ; Times: 1
+	Query: "11296" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Miami&#34; stateprovince:&#34;Kansas&#34; year &gt;= 1928 year &lt;= 1928 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Ambystoma stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; year &gt;= 1960 year &lt;= 2020" ; Times: 2
+	Query: "34899" ; Times: 2
+	Query: "34898" ; Times: 1
+	Query: "Lachesis muta" ; Times: 2
+	Query: "catalognumber:20591 institutioncode:ROM" ; Times: 2
+	Query: "Gopherus flavomarginatus" ; Times: 4
+	Query: "Cyclemys dentata" ; Times: 1
+	Query: "Moloch horridus" ; Times: 1
+	Query: "specificepithet:punctatus genus:Necturus" ; Times: 1
+	Query: "catalognumber:34159 institutioncode:ROM" ; Times: 2
+	Query: "kinosternon leucostomum" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 126 (out of 705 download events in this period)
+Total number of records downloaded: 27962
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 9
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 47
+	Country: Panama ; Times: 1
+	Country: United States ; Times: 35
+	Country: Peru ; Times: 3
+	Country: Denmark ; Times: 1
+	Country: Spain ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-04 ; Times: 7
+	Date: 2020-12-20 ; Times: 2
+	Date: 2020-12-23 ; Times: 47
+	Date: 2020-12-03 ; Times: 5
+	Date: 2020-12-02 ; Times: 30
+	Date: 2020-12-18 ; Times: 3
+	Date: 2020-12-07 ; Times: 4
+	Date: 2020-12-09 ; Times: 1
+	Date: 2020-12-10 ; Times: 3
+	Date: 2020-12-12 ; Times: 5
+	Date: 2020-12-30 ; Times: 1
+	Date: 2020-12-13 ; Times: 1
+	Date: 2020-12-14 ; Times: 7
+	Date: 2020-12-15 ; Times: 5
+	Date: 2020-12-01 ; Times: 4
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lophognathus temporalis" ; Times: 1
+	Query: "Pogona vitticeps" ; Times: 1
+	Query: "Discoglossus pictus" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "Plethodon Cinereus" ; Times: 1
+	Query: "Podarcis muralis" ; Times: 2
+	Query: "Hydromantes italicus" ; Times: 2
+	Query: "Gehyra variegata" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Chamaeleo calyptratus" ; Times: 1
+	Query: "vntype:specimen year &gt;= 1990 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "hastissue:1" ; Times: 1
+	Query: "Anolis krugi" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 2
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Callopistes maculatus" ; Times: 1
+	Query: "Ucayali" ; Times: 1
+	Query: "Egernia cunninghami" ; Times: 1
+	Query: "order:Squamata institutioncode:ROM" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "Pseudis paradoxa" ; Times: 1
+	Query: "Typhlonectes natans" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "holbrookia lacerata" ; Times: 1
+	Query: "Lithobates vaillanti" ; Times: 1
+	Query: "Nephrurus levis" ; Times: 1
+	Query: "Cordylus cordylus" ; Times: 1
+	Query: "pseudotriton ruber" ; Times: 1
+	Query: "Anolis gundlachi" ; Times: 1
+	Query: "plethodon vandykei" ; Times: 1
+	Query: "Scinax ruber" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 2
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "Oedura marmorata" ; Times: 1
+	Query: "ambystoma talpoideum" ; Times: 1
+	Query: "Anguis fragilis" ; Times: 2
+	Query: "Lacerta viridis" ; Times: 1
+	Query: "eurycea longicauda" ; Times: 1
+	Query: "Moloch horridus" ; Times: 1
+	Query: "Anolis cristatellus" ; Times: 1
+	Query: "Varanus gilleni" ; Times: 1
+	Query: "Pucallpa" ; Times: 2
+	Query: "Tarentola mauritanica" ; Times: 2
+	Query: "class:Reptilia country:Brazil" ; Times: 2
+	Query: "crotalus ravus" ; Times: 1
+	Query: "Eremiascincus fasciolatus" ; Times: 1
+	Query: "Natrix maura" ; Times: 1
+	Query: "calotes versicolor" ; Times: 1
+	Query: "Sphenodon punctatus" ; Times: 1
+	Query: "(Hemidactylium scutatum)" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Xenopeltis unicolor" ; Times: 2
+	Query: "Carlia fusca" ; Times: 1
+	Query: "Anolis stratulus" ; Times: 1
+	Query: "Dendropsophus microcephalus" ; Times: 2
+	Query: "plethodon dorsalis" ; Times: 1
+	Query: "genus:Crotalus family:Viperidae country:&#34;Mexico&#34; continent:America" ; Times: 1
+	Query: "Lerista bipes" ; Times: 2
+	Query: "christiani lepidodactylus" ; Times: 1
+	Query: "Leptodactylus fuscus" ; Times: 1
+	Query: "specificepithet:hortulanus genus:Corallus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Psammodromus algirus" ; Times: 2
+	Query: "Lialis burtonis" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "Malpolon monspessulanus" ; Times: 1
+	Query: "aneides ferreus" ; Times: 1
+	Query: "genus:Lepidodactylus country:&#34;Philippines&#34;" ; Times: 1
+	Query: "Amphibolurus muricatus" ; Times: 1
+	Query: "Chalcides ocellatus" ; Times: 1
+	Query: "Tiliqua multifasciata" ; Times: 1
+	Query: "Triturus marmoratus" ; Times: 2
+	Query: "Anilius" ; Times: 2
+	Query: "class:Amphibia country:Brazil" ; Times: 3
+	Query: "plethodon glutinosus" ; Times: 2
+	Query: "genus:crotalus family:viperidae country:&#34;México&#34; continent:America" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 8
+	Query: "Lacerta agilis" ; Times: 2
+	Query: "Ameiva ameiva" ; Times: 1
+	Query: "agama agama" ; Times: 1
+	Query: "Alytes obstetricans" ; Times: 1
+	Query: "Vipera aspis" ; Times: 1
+	Query: "Coleonyx brevis" ; Times: 1
+	Query: "Ctenotus robustus" ; Times: 1
+	Query: "Diporiphora bilineata" ; Times: 1
+	Query: "Incilius alvarius" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "Trogonophis wiegmanni" ; Times: 1
+	Query: "Lucasium damaeum" ; Times: 1
+	Query: "naja oxiana" ; Times: 1
+	Query: "Heteronotia binoei" ; Times: 1
+	Query: "Coronella austriaca" ; Times: 1
+	Query: "Pelodytes punctatus" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Rana temporaria" ; Times: 1
+	Query: "Pelobates cultripes" ; Times: 1
+	Query: "Egernia striolata" ; Times: 1
+	Query: "taricha torosa" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "Lachesis muta" ; Times: 1
+	Query: "kinosternon leucostomum" ; Times: 1
+
+
+End of report.
